@@ -1,4 +1,4 @@
-= Analyse des besoins métier
+= R3.03 Analyse
 :author: Franck Silvestre
 :icons: font
 :toc: left
@@ -21,6 +21,35 @@ ifdef::env-github[]
 :caution-caption: :fire:
 :warning-caption: :warning:
 endif::[]
+
+
+== The big picture first
+
+Dans le cadre de ce cours, nous allons nous concentrer sur l'*analyse des exigences* qui s'inscrit dans une discipline plus large qu'on nomme l'*analyse métier*.
+
+=== Définition 
+
+L'analyse métier:: L'analyse métier (_business analysis_ en anglais) est une discipline professionnelle qui consiste à identifier les besoins métier d'une entreprise ou d'une organisation et à déterminer des solutions à ses problèmes. Les solutions comprennent souvent une composante de développement de systèmes logiciels, mais peuvent aussi consister en des améliorations de processus, des changements organisationnels ou une planification stratégique et l'élaboration de politiques. La personne qui s'acquitte de cette tâche est appelée un analyste métier (_business analyst_ en anglais) footnote:["Business Analysis Body of Knowledge v2.0". International Institute of Business Analysis.].
+
+=== Les sous-disciplines
+
+L'analyse métier est composées de plusieurs sous-disciplines chacune mobilisant des méthodes et outils propres.
+
+Analyse d'entreprise ou d'organisation:: S'attache à comprendre les besoins de l'entreprise dans son ensemble, son orientation stratégique, et à identifier les initiatives qui permettront à une entreprise d'atteindre ces objectifs stratégiques. Elle comprend également :
+
+- La création et la maintenance de l'architecture métier de l'entreprise
+- la réalisation d'études de faisabilité
+- l'identification de nouvelles opportunités commerciales
+- le cadrage et la définition de nouvelles opportunités commerciales
+- la préparation de l'analyse de rentabilité
+Réalisation de l'évaluation initiale des risques
+
+== Bibliographie
+
+Wikipédia:: Page anglaise sur la notion de _business analysis_. https://en.wikipedia.org/wiki/Business_analysis
+
+
+
 
 == Test plant UML
 
