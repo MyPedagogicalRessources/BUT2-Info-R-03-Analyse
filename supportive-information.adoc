@@ -4,6 +4,7 @@
 :toc: left
 :toclevels: 4
 :sectnums:
+:source-highlighter: highlightjs
 :revealjs_theme: simple
 :revealjs_hash: true
 :revealjs_height: 1200
@@ -69,10 +70,35 @@ Planification du développement des exigences, définition des priorités et ges
 
 === Analyse et documentation des exigences
 
-Mise en œuvre de technques permettant de décrire de manière suffisament détaillée les exigences de telle sorte qu'elles puissent être implémentées par une équipe de développement.
+Mise en œuvre de techniques permettant de décrire de manière suffisament détaillée les exigences de telle sorte qu'elles puissent être implémentées par une équipe de développement.
 
 [%step]
 IMPORTANT: C'est cette sous-discipline qui nous intéresse dans le contexte de cette _ressource_. Nous l'aborderons principalement dans le contexte de méthodes agiles.
+
+ifdef::backend-revealjs[=== !]
+
+==== Analyse
+
+Les principales formes d'analyse sont les suivantes :
+
+[%step]
+- Analyse de l'architecture
+- Analyse des processus métier
+- Analyse orientée objet
+- etc.
+
+ifdef::backend-revealjs[=== !]
+
+==== Documentation
+
+
+La documentation des exigences peut prendre plusieurs formes :
+
+[%step]
+- Textuelle - par exemple, des histoires qui résument des informations spécifiques.
+- Matrice - par exemple, un tableau des exigences avec les priorités.
+- Diagrammes - par exemple, comment les données circulent d'une structure à l'autre.
+- etc.
 
 == Bibliographie
 
