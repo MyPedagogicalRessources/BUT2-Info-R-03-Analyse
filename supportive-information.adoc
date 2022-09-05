@@ -2,11 +2,14 @@
 :author: Franck Silvestre
 :icons: font
 :toc: left
+:toclevels: 4
 :sectnums:
 :revealjs_theme: simple
 :revealjs_hash: true
 :revealjs_height: 1200
 :revealjs_width: 1400
+:revealjs_viewDistance: 5
+:revealjs_slideNumber: c/t
 
 ifdef::backend-html5[]
 ++++
@@ -23,7 +26,7 @@ ifdef::env-github[]
 endif::[]
 
 
-== The big picture first
+== The big picture first ou *l'analyse métier*
 
 Dans le cadre de ce cours, nous allons nous concentrer sur l'*analyse des exigences* qui s'inscrit dans une discipline plus large qu'on nomme l'*analyse métier*.
 
@@ -31,18 +34,45 @@ Dans le cadre de ce cours, nous allons nous concentrer sur l'*analyse des exigen
 
 L'analyse métier:: L'analyse métier (_business analysis_ en anglais) est une discipline professionnelle qui consiste à identifier les besoins métier d'une entreprise ou d'une organisation et à déterminer des solutions à ses problèmes. Les solutions comprennent souvent une composante de développement de systèmes logiciels, mais peuvent aussi consister en des améliorations de processus, des changements organisationnels ou une planification stratégique et l'élaboration de politiques. La personne qui s'acquitte de cette tâche est appelée un analyste métier (_business analyst_ en anglais) footnote:["Business Analysis Body of Knowledge v2.0". International Institute of Business Analysis.].
 
-=== Les sous-disciplines
+[%step]
+IMPORTANT: L'analyse métier est composées de plusieurs sous-disciplines chacune mobilisant des méthodes et outils propres.
 
-L'analyse métier est composées de plusieurs sous-disciplines chacune mobilisant des méthodes et outils propres.
+=== Analyse d'entreprise ou d'organisation
 
-Analyse d'entreprise ou d'organisation:: S'attache à comprendre les besoins de l'entreprise dans son ensemble, son orientation stratégique, et à identifier les initiatives qui permettront à une entreprise d'atteindre ces objectifs stratégiques. Elle comprend également :
+S'attache à comprendre les besoins de l'entreprise dans son ensemble, son orientation stratégique, et à identifier les initiatives qui permettront à une entreprise d'atteindre ces objectifs stratégiques. Elle comprend également :
 
+[%step]
 - La création et la maintenance de l'architecture métier de l'entreprise
 - la réalisation d'études de faisabilité
 - l'identification de nouvelles opportunités commerciales
 - le cadrage et la définition de nouvelles opportunités commerciales
 - la préparation de l'analyse de rentabilité
 Réalisation de l'évaluation initiale des risques
+
+=== Élicitation des exigences 
+
+Mise en œuvre de techniques pour l'explicitation et la collecte des exigences des différentes parties-prenantes dans le projet.
+Les techniques d'éliciation des exigences comprennent (liste non exhaustive) :
+
+[%step]
+- Brainstorming
+- Focus groupes
+- Interviews/questionnaires
+- Sondages
+- Analyse des tâches utilisateurs
+- Observation du poste de travail
+- Design thinking
+
+=== Planification et gestion des exigences
+
+Planification du développement des exigences, définition des priorités et gestion des changements.
+
+=== Analyse et documentation des exigences
+
+Mise en œuvre de technques permettant de décrire de manière suffisament détaillée les exigences de telle sorte qu'elles puissent être implémentées par une équipe de développement.
+
+[%step]
+IMPORTANT: C'est cette sous-discipline qui nous intéresse dans le contexte de cette _ressource_. Nous l'aborderons principalement dans le contexte de méthodes agiles.
 
 == Bibliographie
 
