@@ -5,12 +5,13 @@
 :toclevels: 4
 :sectnums:
 :source-highlighter: highlightjs
-:revealjs_theme: simple
+:revealjs_theme: beige
 :revealjs_hash: true
 :revealjs_height: 1200
 :revealjs_width: 1400
 :revealjs_viewDistance: 5
 :revealjs_slideNumber: c/t
+
 
 ifdef::backend-html5[]
 ++++
@@ -26,6 +27,7 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
+[.text-left]
 
 == The big picture first ou *l'analyse métier*
 
@@ -38,6 +40,7 @@ L'analyse métier:: L'analyse métier (_business analysis_ en anglais) est une d
 [%step]
 IMPORTANT: L'analyse métier est composées de plusieurs sous-disciplines chacune mobilisant des méthodes et outils propres.
 
+[.text-left]
 === Analyse d'entreprise ou d'organisation
 
 S'attache à comprendre les besoins de l'entreprise dans son ensemble, son orientation stratégique, et à identifier les initiatives qui permettront à une entreprise d'atteindre ces objectifs stratégiques. Elle comprend également :
@@ -50,6 +53,7 @@ S'attache à comprendre les besoins de l'entreprise dans son ensemble, son orien
 - la préparation de l'analyse de rentabilité
 Réalisation de l'évaluation initiale des risques
 
+[.text-left]
 === Élicitation des exigences 
 
 Mise en œuvre de techniques pour l'explicitation et la collecte des exigences des différentes parties-prenantes dans le projet.
@@ -64,10 +68,12 @@ Les techniques d'éliciation des exigences comprennent (liste non exhaustive) :
 - Observation du poste de travail
 - Design thinking
 
+[.text-left]
 === Planification et gestion des exigences
 
 Planification du développement des exigences, définition des priorités et gestion des changements.
 
+[.text-left]
 === Analyse et documentation des exigences
 
 Mise en œuvre de techniques permettant de décrire de manière suffisament détaillée les exigences de telle sorte qu'elles puissent être implémentées par une équipe de développement.
@@ -75,6 +81,7 @@ Mise en œuvre de techniques permettant de décrire de manière suffisament dét
 [%step]
 IMPORTANT: C'est cette sous-discipline qui nous intéresse dans le contexte de cette _ressource_. Nous l'aborderons principalement dans le contexte de méthodes agiles.
 
+[.text-left]
 ifdef::backend-revealjs[=== !]
 
 ==== Analyse
@@ -87,6 +94,7 @@ Les principales formes d'analyse sont les suivantes :
 - Analyse orientée objet
 - etc.
 
+[.text-left]
 ifdef::backend-revealjs[=== !]
 
 ==== Documentation
@@ -100,6 +108,31 @@ La documentation des exigences peut prendre plusieurs formes :
 - Diagrammes - par exemple, comment les données circulent d'une structure à l'autre.
 - etc.
 
+[.text-left]
+=== Communication des exigences
+
+Mobilise les techniques permettant de s'assurer que les parties prenantes ont une compréhension commune des exigences et de la manière dont elles seront mises en œuvre.
+
+[.text-left]
+=== Vérification et validation de la solution
+
+Mis en œuvre des méthodes et techniques permettant la vérification et la validation d'une solution proposée.
+
+[%step]
+Vérification:: « Confirmation par des preuves tangibles que les exigences spécifiées ont été satisfaites »
+
+[%step]
+Vérifier, c’est répondre à la question : « Faisons- nous le produit correctement ? »
+
+[%step]
+Validation:: « Confirmation par des preuves tangibles que les exigences pour une utilisation spécifique ou une application prévue ont été satisfaites »
+
+[%step]
+Valider, c’est répondre à la question : « Faisons- nous le bon produit ? »
+
+(Source : Norme ISO 9000 : 2000)
+
+[.text-left]
 == Bibliographie
 
 Wikipédia:: Page anglaise sur la notion de _business analysis_. https://en.wikipedia.org/wiki/Business_analysis
