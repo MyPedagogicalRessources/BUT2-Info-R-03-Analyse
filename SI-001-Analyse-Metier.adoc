@@ -3,6 +3,7 @@
 
 Dans le cadre de ce cours, nous allons nous concentrer sur l'*analyse des exigences* qui s'inscrit dans une discipline plus large qu'on nomme l'*analyse métier*.
 
+[.text-left]
 === Définition 
 
 L'analyse métier:: L'analyse métier (_business analysis_ en anglais) est une discipline professionnelle qui consiste à identifier les besoins métier d'une entreprise ou d'une organisation et à déterminer des solutions à ses problèmes. Les solutions comprennent souvent une composante de développement de systèmes logiciels, mais peuvent aussi consister en des améliorations de processus, des changements organisationnels ou une planification stratégique et l'élaboration de politiques. La personne qui s'acquitte de cette tâche est appelée un analyste métier (_business analyst_ en anglais) footnote:["Business Analysis Body of Knowledge v2.0". International Institute of Business Analysis.].
@@ -27,6 +28,16 @@ S'attache à comprendre les besoins de l'entreprise dans son ensemble, son orien
 === Élicitation des exigences 
 
 Mise en œuvre de techniques pour l'explicitation et la collecte des exigences des différentes parties-prenantes dans le projet.
+
+[.text-left]
+ifdef::backend-revealjs[=== !]
+
+Exigence _(Source : IEEE)_:: Condition ou capacité que doit présenter un système pour satisfaire un contrat, un standard, une spécification ou tout autre document formel imposé.
+
+
+[.text-left]
+ifdef::backend-revealjs[=== !]
+
 Les techniques d'éliciation des exigences comprennent (liste non exhaustive) :
 
 [%step]
@@ -98,36 +109,8 @@ Validation:: « Confirmation par des preuves tangibles que les exigences pour un
 [%step]
 Valider, c’est répondre à la question : « Faisons- nous le bon produit ? »
 
-(Source : Norme ISO 9000 : 2000)
-
-[.text-left]
-== Bibliographie
-
-Wikipédia:: Page anglaise sur la notion de _business analysis_. https://en.wikipedia.org/wiki/Business_analysis
+_(Source : Norme ISO 9000 : 2000)_
 
 
 
 
-== Test plant UML
-
-[plantuml,target="uml"]
-....
-@startuml
-left to right direction
-actor Guest as g
-package Professional {
-  actor Chef as c
-  actor "Food Critic" as fc
-}
-package Restaurant {
-  usecase "Eat Food" as UC1
-  usecase "Pay for Food" as UC2
-  usecase "Drink" as UC3
-  usecase "Review" as UC4
-}
-fc --> UC4
-g --> UC1
-g --> UC2
-g --> UC3
-@enduml
-....
