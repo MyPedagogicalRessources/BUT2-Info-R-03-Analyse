@@ -1,0 +1,41 @@
+== Introduction au management de projet
+
+=== Caractéristiques d'un projet
+
+Définition:: 
+Un projet est un effort temporaire entrepris dans le but de créer un produit, un service ou un résultat unique.
+
+Exemples:: 
+[%step]
+- développement d'un logiciel ou d'un composant logiciel
+- mise en place d'une nouvelle organisation dans une entreprise
+- conception d'un nouveau véhicule électrique
+- acquisition d'un nouveau logiciel de gestion
+- construction d'un bâtiment ou d'une autoroute
+- conduite d'une campagne électorale
+- mise en place d'un nouveau processus d'entreprise
+- réponse à un appel d'offre
+
+=== Ouvrage et œuvre
+
+Définitions::
+- On appelle *ouvrage* le résultat physique ou intellectuel visé par le projet.
+- On appelle *oeuvre* l'ensemble des activités réalisées au cours du projet.
+
+=== Un projet est temporaire
+
+- Un projet a un début et une fin.
+- Un projet est terminé
+-- quand les objectifs du projet sont atteints
+-- ou quand il devient évident que ces objectifs ne seront ou ne pourront être atteint
+-- ou quand le projet n'est plus nécessaire.
+- Dans les deux derniers cas le projet est terminé par abandon.
+- L'équipe projet, en tant qu'unité de travail conçue pour réaliser le projet, est rarement maintenu à l'issue du projet.
+
+[NOTE]
+====
+Le produit, service ou résultat obtenu n'est pas nécessairement temporaire ; un projet a pour objectif, en général, un
+résultat durable.
+
+Exemple : le projet de construction d'un bâtiment nationnal a vocation à durer des siècles.
+====

@@ -28,6 +28,9 @@ ifdef::env-github[]
 endif::[]
 
 include::readme.adoc[]
+
 include::SI-001-Analyse-Metier.adoc[]
+
+include::SI-002-Management-Projet.adoc[]
 
 include::SI-Webographie-bibliographie.adoc[]

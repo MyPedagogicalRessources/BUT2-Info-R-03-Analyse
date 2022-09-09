@@ -1,4 +1,4 @@
-[.text-left]
+
 == Webographie - Bibliographie
 
 Programme national du BUT Informatique:: https://cache.media.education.gouv.fr/file/SPE4-MESRI-17-6-2021/35/5/Annexe_17_INFO_BUT_annee_1_1411355.pdf

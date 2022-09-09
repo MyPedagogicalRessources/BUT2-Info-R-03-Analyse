@@ -1,6 +1,6 @@
 == La ressource Analyse dans le BUT Informatique
 
-[.text-left]
+
 === Compétences ciblées :
 
 - Développer — c’est-à-dire concevoir, coder, tester et intégrer — une solution informatique pour un client.
@@ -9,28 +9,28 @@ consommation de ressources..
 - Satisfaire les besoins des utilisateurs au regard de la chaîne de valeur du client, organiser et piloter un projet informatique
 avec des méthodes classiques ou agiles
 
-[.text-left]
+
 === SAÉ au sein de laquelle la ressource peut être mobilisée et combinée
 
 - SAÉ 3.Real.01 | Développement d’une application
 
-[.text-left]
+
 === Descriptif
 L’objectif de cette ressource est de conforter les capacités d’analyse de l’informaticien, en étant capable de comprendre les exigences d’un client et de les formaliser.
 
-[.text-left]
+
 === Savoirs de référence étudiés
 - Analyse des exigences (par ex. : recueil des besoins métier, des acteurs, cas d’utilisation, scénarios, spécification par l’exemple...)
 - Renforcement de la modélisation objet pour l’analyse et le développement
 
-[.text-left]
+
 === Apprentissages critiques ciblés
 - AC21.01 | Élaborer et implémenter les spécifications fonctionnelles et non fonctionnelles à partir des exigences
 - AC22.04 | Évaluer l’impact environnemental et sociétal des solutions proposées
 - AC25.02 | Formaliser les besoins du client et de l’utilisateur
 - AC25.03 | Identifier les critères de faisabilité d’un projet informatique
 
-[.text-left]
+
 === Mots clés :
 
 - Analyse des exigences 
