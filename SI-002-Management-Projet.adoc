@@ -18,9 +18,12 @@ Exemples::
 
 === Ouvrage et œuvre
 
-Définitions::
-- On appelle *ouvrage* le résultat physique ou intellectuel visé par le projet.
-- On appelle *oeuvre* l'ensemble des activités réalisées au cours du projet.
+Ouvrage::
+On appelle *ouvrage* le résultat physique ou intellectuel visé par le projet.
+
+[%step]
+Œuvre::
+On appelle *oeuvre* l'ensemble des activités réalisées au cours du projet.
 
 === Un projet est temporaire
 
@@ -35,8 +38,53 @@ Définitions::
 [%step]
 [NOTE]
 ====
-Le produit, service ou résultat obtenu n'est pas nécessairement temporaire ; un projet a pour objectif, en général, un
-résultat durable.
+Le produit, service ou résultat obtenu n'est pas nécessairement temporaire ; un projet a pour objectif, en général, un résultat durable.
 
 Exemple : le projet de construction d'un bâtiment nationnal a vocation à durer des siècles.
 ====
+
+=== Produits, services ou résultats uniques
+
+Les résultats, appelés aussi livrables, crées par le projet sont uniques :
+
+* Un produit ou un objet tangible, quantifiable, qui peut-être final ou un composant.
+** Exemples : un momument, un logiciel, une librairie logicielle, etc.
+* Un service.
+** Exemples : mise en place d'un colloque, mise en place de nouvelles fonctions comerciales pour soutenir la
+production ou la distribution, etc.
+* Autre résultat.
+** Exemples : une étude de faisabilité pour l'utilisation d'un nouveau matériaux, un résultat de recherche, une pièce de théatre, etc.
+
+=== Les parties prenantes
+
+* Les parties prenantes du projet sont les personnes et les organisations activement impliquées dans le projet, ou
+dont les intérêts peuvent subir l'impact de l'exécution ou de l'achèvement du projet.
+* Les parties prenantes peuvent influencer les objectifs et les résultats du projet.
+* L'identification et la gestion de l'influence des parties prenantes sont des éléments clés de succès d'un projet.
+
+=== Parties prenantes notables
+
+[%step]
+Maîtrise d'Ouvrage ou Maître d'ouvrage (MOA)::
+Le MOA, dans le contexte informatique, est l'entité qui a besoin de réaliser un projet (intégration,
+développement logiciel, étude, migration, etc.) et qui ne dispose des compétences pour le mener à bien.
+En synthèse : le MOA est le client.
+
+[%step]
+Maîtrise d'oeuvre ou Maître d'oeuvre (MOE)::
+Le MOE est l'entité à qui le MOA fait appel pour réaliser le projet.
+En synthèse : le MOE est le prestataire de service (des SSII aux ESN)
+
+[%step]
+Assistance maîtrise d'ouvrage (AMOA ou AMO)::
+L'AMO est une entité tierce entre le MOA et le MOE apportant assistance au MOA dans le déroulement du projet.
+L'assistance peut être d'ordre technique, administrative, fonctionnelle, etc
+
+=== Exercice
+
+ENT et parties prenantes:: Un Environnement Numérique de Travail (ENT) est un portail de service pour toute la communauté éducative
+attachée à un établissement scolaire (collège ou lycée). Les collectivités sont en charge de mettre en place les ENT
+dans leur territoire (département ou régions). Les ENT s'appuient sur le Schéma Directeur des ENT (SDET) fourni
+par le Ministère de l'Éducation Nationnal.
+
+Travail:: Identifiez les parties prenantes d'un projet de mise en oeuvre d'un ENT dans un département.
