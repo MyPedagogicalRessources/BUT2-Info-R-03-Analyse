@@ -26,7 +26,7 @@ S'attache à comprendre les besoins de l'entreprise dans son ensemble, son orien
 
 === Élicitation des exigences 
 
-Mise en œuvre de techniques pour l'explicitation et la collecte des exigences des différentes parties-prenantes dans le projet.
+Mise en œuvre de techniques pour l'explicitation et la collecte des exigences des différentes parties-prenantes dans un projet.
 
 
 ifdef::backend-revealjs[=== !]
@@ -47,12 +47,6 @@ Les techniques d'éliciation des exigences comprennent (liste non exhaustive) :
 - Analyse des tâches utilisateurs
 - Observation du poste de travail
 - Design thinking
-
-
-=== Planification et gestion des exigences
-
-Planification du développement des exigences, définition des priorités et gestion des changements.
-
 
 === Analyse et documentation des exigences
 
@@ -85,6 +79,10 @@ La documentation des exigences peut prendre plusieurs formes :
 - Matrice - par exemple, un tableau des exigences avec les priorités.
 - Diagrammes - par exemple, comment les données circulent d'une structure à l'autre.
 - etc.
+
+=== Planification et gestion des exigences
+
+Planification du développement des exigences, définition des priorités et gestion des changements.
 
 
 === Communication des exigences
