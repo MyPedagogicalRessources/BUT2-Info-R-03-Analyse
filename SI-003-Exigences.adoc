@@ -1,0 +1,51 @@
+== Exigences - Généralités
+
+=== Cahier des charges
+
+Le cahier des charges est le document décrivant le périmètre et le contenu du projet.
+Il présente... 
+
+* les objectifs que doit atteindre la solution
+* les exigences que doit satisfaire la solution
+* les exigences en terme de gestion de projet
+
+Il est un outil
+
+* de dialogue entre les MOA, MOE et autres parties prenantes
+* de prévention des risques
+
+[%step]
+NOTE: Il est en général le document fourni par la MOA. Il peut être la ressource permettant à des prestataires de se positionner sur un appel d'offre.
+
+[%step]
+WARNING: Selon l'expérience de la MOA, le cahier des charges peut être plus ou moins précis, plus ou moins clair, plus ou moins détaillé.
+
+[%step]
+CAUTION: Un cahier des charges est amené à changer au cours du projet.
+
+=== Cahier de recette
+
+* Le cahier de recette regroupe l'ensemble des tests qui devront être déroulés avant la livraison du produit.
+** tests « d’acceptation »
+** en agile la recette (ou réception) est incrémentale.
+* Le cahier de recette s'appuie sur la description des exigences du cahier des charges.
+* Le cahier de recette est à réaliser au plus tôt
+* Pour aller plus loin : http://www.test-recette.fr/ 
+
+=== Définition
+
+Exigence _(Source : IEEE)_:: Condition ou capacité que doit présenter un système pour satisfaire un contrat, un standard, une spécification ou tout autre document formel imposé.
+
+NOTE: Les exigences sont construites à partir du besoin exprimé par la MOA.
+
+=== Les types d'exigences
+
+[%steps]
+* Les exigences fonctionnelles
+** Le quoi, ce que permet de faire la solution
+*Les exigences non fonctionnelles
+** Sécurité, Robustesse, Accessibilité, Confidentialité, Disponibilité, Déploiement, etc.** Contraintes techniques, réglementaires
+* Les exigences d’utilisabilité
+** Efficacité, efficience, satisfaction
+* Les exigences qualité
+** Exigences projet, exigences processus
