@@ -40,11 +40,12 @@ NOTE: Les exigences sont construites à partir du besoin exprimé par la MOA.
 
 === Les types d'exigences
 
-[%steps]
+[%step]
 * Les exigences fonctionnelles
 ** Le quoi, ce que permet de faire la solution
-*Les exigences non fonctionnelles
-** Sécurité, Robustesse, Accessibilité, Confidentialité, Disponibilité, Déploiement, etc.** Contraintes techniques, réglementaires
+* Les exigences non fonctionnelles
+** Sécurité, Robustesse, Accessibilité, Confidentialité, Disponibilité, Déploiement, etc.
+** Contraintes techniques, réglementaires
 * Les exigences d’utilisabilité
 ** Efficacité, efficience, satisfaction
 * Les exigences qualité
