@@ -94,17 +94,16 @@ Mobilise les techniques permettant de s'assurer que les parties prenantes ont un
 
 Mis en œuvre des méthodes et techniques permettant la vérification et la validation d'une solution proposée.
 
-[%step]
+
 Vérification:: « Confirmation par des preuves tangibles que les exigences spécifiées ont été satisfaites »
 
 [%step]
-Vérifier, c’est répondre à la question : « Faisons- nous le produit correctement ? »
+NOTE: Vérifier, c’est répondre à la question : « Faisons- nous le produit correctement ? »
 
-[%step]
 Validation:: « Confirmation par des preuves tangibles que les exigences pour une utilisation spécifique ou une application prévue ont été satisfaites »
 
 [%step]
-Valider, c’est répondre à la question : « Faisons- nous le bon produit ? »
+NOTE: Valider, c’est répondre à la question : « Faisons- nous le bon produit ? »
 
 _(Source : Norme ISO 9000 : 2000)_
 
