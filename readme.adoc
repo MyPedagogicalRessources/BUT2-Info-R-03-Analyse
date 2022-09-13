@@ -1,13 +1,11 @@
 == La ressource Analyse dans le BUT Informatique
 
 
-=== Compétences ciblées :
+=== Compétences ciblées
 
 - Développer — c’est-à-dire concevoir, coder, tester et intégrer — une solution informatique pour un client.
-- Proposer des applications informatiques optimisées en fonction de critères spécifiques : temps d’exécution, précision,
-consommation de ressources..
-- Satisfaire les besoins des utilisateurs au regard de la chaîne de valeur du client, organiser et piloter un projet informatique
-avec des méthodes classiques ou agiles
+- Proposer des applications informatiques optimisées en fonction de critères spécifiques : temps d’exécution, précision, consommation de ressources..
+- Satisfaire les besoins des utilisateurs au regard de la chaîne de valeur du client, organiser et piloter un projet informatique avec des méthodes classiques ou agiles
 
 
 === SAÉ au sein de laquelle la ressource peut être mobilisée et combinée
@@ -31,7 +29,7 @@ L’objectif de cette ressource est de conforter les capacités d’analyse de l
 - AC25.03 | Identifier les critères de faisabilité d’un projet informatique
 
 
-=== Mots clés :
+=== Mots clés
 
 - Analyse des exigences 
 - Cas d’utilisation 
