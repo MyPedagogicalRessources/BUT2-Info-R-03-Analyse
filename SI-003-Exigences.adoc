@@ -36,17 +36,56 @@ CAUTION: Un cahier des charges est amené à changer au cours du projet.
 
 Exigence _(Source : IEEE)_:: Condition ou capacité que doit présenter un système pour satisfaire un contrat, un standard, une spécification ou tout autre document formel imposé.
 
-NOTE: Les exigences sont construites à partir du besoin exprimé par la MOA.
+[NOTE]
+====
+- Les exigences sont construites à partir du besoin exprimé par la MOA.
+- Cette définition correspond à la notion d'exigence "produit" car elle permettent de spécifier le système ou produit à concevoir. 
+====
 
-=== Les types d'exigences
 
-[%step]
-* Les exigences fonctionnelles
-** Le quoi, ce que permet de faire la solution
-* Les exigences non fonctionnelles
-** Sécurité, Robustesse, Accessibilité, Confidentialité, Disponibilité, Déploiement, etc.
-** Contraintes techniques, réglementaires
-* Les exigences d’utilisabilité
-** Efficacité, efficience, satisfaction
-* Les exigences qualité
-** Exigences projet, exigences processus
+=== Classification des exigences "produit" 
+
+Le diagramme suivant synthétise une manière consensuelle de classer les exigences produit.
+Le diagramme n'est pas exhaustif en termes de sous-classes.
+
+[plantuml,target="exigence-produit", ]
+....
+@startuml
+Exigence_produit <|-- Exigence_fonctionnelle
+Exigence_produit <|-- Exigence_non_fonctionnelle
+Exigence_non_fonctionnelle <|-- Exigence_technique
+Exigence_non_fonctionnelle <|-- Exigence_qualite_code_source
+Exigence_non_fonctionnelle <|-- Exigence_sécurité
+Exigence_non_fonctionnelle <|-- Exigence_robustesse
+Exigence_non_fonctionnelle <|-- Exigence_utilisabilité
+Exigence_non_fonctionnelle <|-- Contrainte_technique
+Exigence_non_fonctionnelle <|-- Contrainte_réglementaire
+Exigence_non_fonctionnelle <|-- Autre_type_exigence
+@enduml
+....
+
+
+[NOTE, %step]
+==== 
+* les exigences fonctionnelles permettent de décrire ce que doit permettre de faire la solution : le quoi.
+* les exigences non fonctionnelles décrivent en général les attentes "qualité" de la solution.
+* le travail associé à une exigence non fonctionnelle, est en général à remobiliser partiellement ou totalement à chaque fois que le système évolue fonctionnellement.
+** Exemple : à chaque nouvelle fonctionnalité, il faut s'assurer que le système reste utilisable, que le nouveau code est testé, etc.
+====
+
+===  Classification des exigences "projet"
+
+La MOA peut exprimer aussi des exigences sur la manière de réaliser le système ou le produit. On parle alors d'exigences "projet".
+
+[plantuml,target="exigence-projet"]
+....
+@startuml
+Exigence_projet <|-- Exigence_méthode
+Exigence_projet <|-- Exigence_outil
+Exigence_projet <|-- Autre_type_exigence
+@enduml
+....
+
+=== Exercice
+
+Assignez des exigences à leur type.
