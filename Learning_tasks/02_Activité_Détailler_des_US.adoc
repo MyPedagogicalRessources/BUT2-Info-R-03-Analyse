@@ -1,0 +1,43 @@
+---
+title: Activité II - Détailler des User Story
+subtitle:  Méthodologie de production d'applications
+---
+
+# Introduction
+
+## Objectifs
+
+- Rédiger les tests d'acceptations de *User Stories*.
+
+## Modalités
+
+Alternance de travail en binôme et individuel sur étude de cas.
+
+# Études d'exemples de tests d'acceptation
+
+[Activité elaastic : Exemples de *tests d'acceptation*...](https://cours21-22.ut-capitole.fr/course/view.php?id=2976#section-1)
+
+# Rédaction des tests d'acceptations de vos US
+
+Les tests d'acceptations seront ajoutés directement dans la description des US sur le board Zenhub de votre projet.
+
+## Rédaction des tests d'acceptation d'une US 
+
+1. Think : Choisissez une des US que vous avez rédigée. Rédigez les tests d'acceptations pour cette User Story en distinguant bien le cas nominal des cas limites et des cas d'erreur.
+
+2. Pair : 
+    - Étudiez et commentez en utilisant les fonctionnalités du Board Zenhub les tests d'acceptation rédigés par votre binôme.
+    - Échangez de vive voix avec votre binôme sur les commentaires postés sur vos US respectives.
+
+3. Share : Questions/Réponses entre enseignant et étudiant•e•s.
+
+4. Reprenez, si nécessaire, la rédaction de vos tests d'acceptation afin qu'ils prennent en compte l'ensemble des commentaires et échanges. 
+
+## Rédaction des tests d'acceptations de l'ensemble des US
+
+Pour chaque US que vous avez rédigée :
+
+1. Rédigez les tests d'acceptation.
+2. Étudiez et commentez en utilisant les fonctionnalités du Board Zenhub les tests d'acceptations rédigés par votre binôme.
+3. Échangez de vive voix avec votre binôme pour converger vers un consensus sur les modifications à apporter à l'ensemble des tests.
+3. Prenez en compte les résultats de commentaires et des échanges pour finaliser la rédaction des tests d'acceptation.
