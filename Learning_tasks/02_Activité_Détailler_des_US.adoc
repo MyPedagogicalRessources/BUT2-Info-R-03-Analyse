@@ -1,27 +1,24 @@
----
-title: Activité II - Détailler des User Story
-subtitle:  Méthodologie de production d'applications
----
+= Activité 2 - Détailler des US
 
-# Introduction
+== Introduction
 
-## Objectifs
+=== Objectifs
 
 - Rédiger les tests d'acceptations de *User Stories*.
 
-## Modalités
+=== Modalités
 
 Alternance de travail en binôme et individuel sur étude de cas.
 
-# Études d'exemples de tests d'acceptation
+== Études d'exemples de tests d'acceptation
 
 [Activité elaastic : Exemples de *tests d'acceptation*...](https://cours21-22.ut-capitole.fr/course/view.php?id=2976#section-1)
 
-# Rédaction des tests d'acceptations de vos US
+== Rédaction des tests d'acceptations de vos US
 
 Les tests d'acceptations seront ajoutés directement dans la description des US sur le board Zenhub de votre projet.
 
-## Rédaction des tests d'acceptation d'une US 
+=== Rédaction des tests d'acceptation d'une US 
 
 1. Think : Choisissez une des US que vous avez rédigée. Rédigez les tests d'acceptations pour cette User Story en distinguant bien le cas nominal des cas limites et des cas d'erreur.
 
@@ -33,7 +30,7 @@ Les tests d'acceptations seront ajoutés directement dans la description des US 
 
 4. Reprenez, si nécessaire, la rédaction de vos tests d'acceptation afin qu'ils prennent en compte l'ensemble des commentaires et échanges. 
 
-## Rédaction des tests d'acceptations de l'ensemble des US
+=== Rédaction des tests d'acceptations de l'ensemble des US
 
 Pour chaque US que vous avez rédigée :
 

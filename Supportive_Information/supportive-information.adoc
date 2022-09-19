@@ -15,7 +15,7 @@
 
 ifdef::backend-html5[]
 ++++
-include::licence.html[]
+include::../licence.html[]
 ++++
 endif::[]
 
