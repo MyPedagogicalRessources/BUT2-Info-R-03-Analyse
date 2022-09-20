@@ -1,5 +1,9 @@
 = R3.03 Analyse - Préambule à l'analyse et à la documentation des exigences
-:author: Franck Silvestre
+Franck Silvestre <franck.silvestre@iut-rodez.fr>
+:doctype: book
+:hyphens: fr
+:chapter-signifier: Chapitre
+:toc-title: Table des matières
 :icons: font
 :toc: left
 :toclevels: 4
@@ -7,8 +11,8 @@
 :source-highlighter: highlightjs
 :revealjs_theme: beige
 :revealjs_hash: true
-:revealjs_height: 1200
-:revealjs_width: 1400
+:revealjs_height: 900
+:revealjs_width: 1000
 :revealjs_viewDistance: 5
 :revealjs_slideNumber: c/t
 
