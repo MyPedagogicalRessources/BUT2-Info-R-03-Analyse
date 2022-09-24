@@ -39,7 +39,7 @@
   - ??
 
 - 5ème séance de Cours
-  - 1h30
+  - 1h (+ Tiers temps)
   - Contrôle orienté connaissance : sans documentation
 
 - 5ème séance de TP
@@ -52,4 +52,4 @@
 
 
 
-
+Total : 8h C + 7,5 TP = 12 + 7,5 = 19,5
