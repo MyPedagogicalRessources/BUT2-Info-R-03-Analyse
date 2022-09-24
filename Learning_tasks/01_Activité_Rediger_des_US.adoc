@@ -38,14 +38,14 @@ Le document "example-user-stories.pdf" disponible dans les ressources contient l
 
 Parmi les US, dans partie "Courses and Events", certaines US sont surlignées en vert, d'autres en orange.
 
-https://cours21-22.ut-capitole.fr/course/view.php?id=2976#section-1[Activité elaastic : Exemples de *User stories*...]
+https://cours22-23.ut-capitole.fr/course/view.php?id=14299[Activité elaastic : Exemples de *User stories*...]
 
 ==== Création du board Zenhub
 
 Pour cette activité, vous aurez besoin d'utiliser votre compte Github.
 
 1.  Inscrivez-vous au devoir Site_Alosa via Github Classroom et RDV sur le projet créé.
-https://classroom.github.com/g/n1j3Jykk[Lien d'inscription Github Classroom]
+https://cours22-23.ut-capitole.fr/course/view.php?id=14299[Lien d'inscription Github Classroom]
 
 NOTE: Coordonnez-vous au sein du binôme pour vous inscrire dans la même *team* pour partager le même projet.
 
@@ -58,11 +58,8 @@ NOTE: Coordonnez-vous au sein du binôme pour vous inscrire dans la même *team*
 ==== Rédaction d'US pour le site ALOSA 
 
 1. Au sein de votre binôme, répartissez vous 1 partie du site ALOSA à spécifier sous forme d'US.
-
 2. Directement dans le board Zenhub du projet : 
     - Créez une *epic* correspondant à la partie que vous devez spécifier.
     - Rédigez 6 US attachées à cette *epic* (1 issue par US dans la colonne "backlog"). 
-
 3. Relisez les US écrites par votre binôme en notant vos questions et vos remarques sur ces US que vous n'avez pas écrites.
-
 4. Échangez avec votre binôme pour finaliser l'écriture des 12 US qui ont été rédigées.
