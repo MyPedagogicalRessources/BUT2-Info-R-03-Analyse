@@ -73,3 +73,96 @@ IMPORTANT: La planification requiert la traduction des exigences en tâches à r
 
 .Trello, US et tâches
 image::004-Trello-2.png[Trello, US et tâches, 600]
+
+=== Tests d'acceptation
+
+* Tests fonctionnels
+** Plusieurs tests décrits pour chaque story
+*** cas nominal
+*** cas limites
+*** cas d’erreur
+* Un format privilégié
+
+[%step]
+ Given...
+ When...
+ Then...
+
+[%step]
+* http://guide.agilealliance.org/guide/gwt.html 
+
+=== Tests d’acceptation + revue = recette incrémentale
+
+* Les US + les tests d'acceptation = exigence détaillée 
+* Recette incrémentale
+* Allègement de la recette finale
+
+=== Exemples d'US avec tests d'acceptation
+
+* https://github.com/TSaaP/tsaap-notes/issues/145 
+* https://github.com/TSaaP/tsaap-notes/issues/148 
+* https://github.com/TSaaP/tsaap-notes/issues/149 
+
+=== Feature
+
+* Une feature est une fonctionnalité de plus haut niveau qu'une story
+* Nécessite un raffinement, découpage en stories
+* Niveau intermédiaire entre la vision produit et la story
+
+=== Epic (épopée)
+
+* Dans XP ou Zenhub : une grosse story, un regroupement de stories <~> feature
+* Dans d'autres contextes (Scrum à grand échelle), un regroupement de features 
+
+=== Le backlog de Sprint
+
+* Le backlog de Sprint est l’ensemble des items choisis pour le Sprint accompagné du plan pour les réaliser dans le cadre d’un incrément de produit qui concrétisera l’objectif du Sprint.
+* Le plan se décline concrètement par un découpage en tâche de chaque item du backlog de Sprint
+
+[%step]
+https://github.com/TSaaP/tsaap-notes/issues/180 
+
+=== L'incrément
+
+* L’incrément est la somme de tous les items du Backlog de produit terminés pendant un sprint, additionné de tous les items terminés des sprints précédents.
+* Il doit être dans un état utilisable, que le Client décide de le déployer ou non.
+
+=== La définition de fini, pourquoi ?
+
+[quote, https://saat-network.ch/2012/11/sample-definition-of-done/]
+____
+Project Manager: Is this function done?
+
+Developer: Yes
+
+Project Manager: So we can ship it?
+
+Developer: Well, No. It needs to be tested, and I need to write some documentation, but the code works, really. I tested it… (pause) …on my machine.
+____
+
+=== La définition de fini
+
+* Décrit à quelle condition un travail est considéré comme terminé
+* Partagée par toute l'équipe Scrum 
+* Portée : item de backlog ou incrément
+* Évaluation systématique du caractère terminé d'un travail
+* La définition de "fini" peut/doit évoluer dans le temps
+
+=== Activité sur la définition de fini 
+
+En mode "_think, pair, share_"
+
+|===
+|Critère | Portée 
+
+|Le code est publiée sur la branche principale du dépôt Git partagé
+|Item de backlog
+
+|L’incrément est déployé sur l’environnement de test
+|Incrément
+
+|...
+|
+|===
+
+
