@@ -1,1 +1,1 @@
-./generate-doc.sh & ./generate-slides.sh
+./generate-doc.sh & ./generate-slides.sh & ./generate-pdf.sh

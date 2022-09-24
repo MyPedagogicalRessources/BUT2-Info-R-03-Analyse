@@ -14,7 +14,8 @@ Il est un outil
 * de dialogue entre les MOA, MOE et autres parties prenantes
 * de prévention des risques
 
-[%step]
+ifdef::backend-revealjs[=== !]
+
 NOTE: Il est en général le document fourni par la MOA. Il peut être la ressource permettant à des prestataires de se positionner sur un appel d'offre.
 
 [%step]
@@ -41,7 +42,6 @@ Exigence _(Source : IEEE)_:: Condition ou capacité que doit présenter un syst�
 - Les exigences sont construites à partir du besoin exprimé par la MOA.
 - Cette définition correspond à la notion d'exigence "produit" car elle permettent de spécifier le système ou produit à concevoir. 
 ====
-
 
 === Classification des exigences "produit" 
 
@@ -86,6 +86,3 @@ Exigence_projet <|-- Autre_type_exigence
 @enduml
 ....
 
-=== Exercice
-
-Assignez des exigences à leur type.

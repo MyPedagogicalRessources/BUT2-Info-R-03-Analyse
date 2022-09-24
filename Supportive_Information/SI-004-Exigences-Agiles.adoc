@@ -1,0 +1,75 @@
+== Les exigences en contexte agile Scrum
+
+=== Scrum - the big Picture
+
+.Scrum
+image::002-Scrum.png[Scrum, 800]
+
+=== Le Product owner
+
+* Dans une équipe Scrum, le Product Owner est chargé de maximiser la valeur du produit et le travail de l'équipe de développement.
+* Le Product Owner est le représentant du client et des parties prenantes au sein de l'équipe
+* Il gère le "Backlog" de produit qui contient toutes les exigences du produit
+
+=== Le backlog produit
+
+* Le Backlog de produit est une liste ordonnée de tout ce qui pourrait être requis dans le produit.
+* Il est la source unique des exigences pour tous les changements à effectuer sur le produit.
+* Le Product Owner est responsable de ce Backlog, de son contenu, de sa publication ainsi que de l’ordonnancement des items qu’il contient.
+
+=== Items de backlog
+
+* Items d'exigences fonctionnelles : "User Stories"
+* Items d'exigences techniques : "Technical Stories", "Enablers", "Spikes"
+* Autres exigences : qualité, "omniprésentes", référencées par les items du backlog
+** définition de fini
+** autres exigences dans documents tiers 
+
+=== User story - Format type
+
+[quote]
+____
+As a ... +
+I want to... +
+So that... +
+____
+
+[%step]
+[quote, Extrait du backlog d'Elaastic]
+____
+As a teacher +
+I want to duplicate an assignment +
+So that I can replay questions to another group of students +
+____
+
+=== User story et le principe des 3C
+
+Card:: Une US doit « tenir » sur un post-it => elle est nécessairement incomplète.
+Conversation:: Pour obtenir les informations détaillées une conversation entre l’équipe de développement et le Product Owner est indispensable.
+Confirmation:: À l’issue des échanges des tests d’acception doivent compléter l’US. Des maquettes basse ou moyenne fidélité peuvent compléter l’US.
+
+=== User story - critères INVEST
+
+* Indépendante (le plus possible)
+* Négotiable
+* Apporter de la Valeur
+* Estimable
+* Small enough
+* Testable
+
+=== Outils pour la gestion du backlog 
+
+* Tableur 
+* Outil de _bug tracking_ (JIRA, Issues Github, etc.)
+* Outil de board agile (Trello, Zenhub, etc.)
+
+=== De l'exigence à la tâche
+
+WARNING: Les items du backlogs sont des exigences, pas des tâches !
+
+IMPORTANT: La planification requiert la traduction des exigences en tâches à réaliser
+
+=== Exigences et tâches dans Trello
+
+.Trello, US et tâches
+image::004-Trello-2.png[Trello, US et tâches, 600]

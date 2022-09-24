@@ -1,7 +1,6 @@
-= R3.03 Analyse - Préambule à l'analyse et à la documentation des exigences
+= R3.03 Analyse - L'analyse la documentation des exigences
 Franck Silvestre <franck.silvestre@iut-rodez.fr>
 :doctype: book
-:hyphens: fr
 :chapter-signifier: Chapitre
 :toc-title: Table des matières
 :icons: font
@@ -11,8 +10,8 @@ Franck Silvestre <franck.silvestre@iut-rodez.fr>
 :source-highlighter: highlightjs
 :revealjs_theme: beige
 :revealjs_hash: true
-:revealjs_height: 900
-:revealjs_width: 1000
+:revealjs_height: 1000
+:revealjs_width: 1200
 :revealjs_viewDistance: 5
 :revealjs_slideNumber: c/t
 
@@ -38,5 +37,7 @@ include::SI-002-Management-Projet.adoc[]
 include::SI-001-Analyse-Metier.adoc[]
 
 include::SI-003-Exigences.adoc[]
+
+include::SI-004-Exigences-Agiles.adoc[]
 
 include::SI-Webographie-bibliographie.adoc[]
