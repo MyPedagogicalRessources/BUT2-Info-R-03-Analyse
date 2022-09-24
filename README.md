@@ -44,6 +44,10 @@
 
 - 5ème séance de TP
   - 1h15
+  - ??
+
+- 6ème séance de TP
+  - 1h15
   - contrôle machine : avec doc autorisé
 
 
