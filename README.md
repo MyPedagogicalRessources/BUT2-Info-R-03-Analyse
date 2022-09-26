@@ -13,6 +13,7 @@
   - 2h
   - Intro : question elaastic sur chassez l'intrus
   - transmissif -> ?? idéalement avant DOD
+  - Lecture et analyse des US avec Elaastic 
 
 - Deuxième séance de TP
   - 1h15
