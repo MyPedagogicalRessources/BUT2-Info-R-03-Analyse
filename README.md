@@ -12,12 +12,14 @@
 - Deuxième séance C
   - 2h
   - Intro : question elaastic sur chassez l'intrus
-  - transmissif -> ?? idéalement avant DOD
+  - transmissif -> tests d'acceptation : première exemple US tsaap-notes
   - Lecture et analyse des US avec Elaastic 
 
 - Deuxième séance de TP
   - 1h15
   - Écriture des US (sans tests d'acceptation)
+
+<!-- fin réalisé -->
 
 - Troisième séance C
   - 2h
