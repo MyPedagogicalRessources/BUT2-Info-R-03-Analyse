@@ -1,6 +1,6 @@
 .asciidoctor
 *.lock
-supportive-information.html
+*.html
 *.slides.html
-supportive-information.pdf
+*.pdf
 .DS_Store
