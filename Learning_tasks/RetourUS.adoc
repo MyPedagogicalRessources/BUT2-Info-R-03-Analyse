@@ -7,8 +7,8 @@
 :source-highlighter: highlightjs
 :revealjs_theme: beige
 :revealjs_hash: true
-:revealjs_height: 1200
-:revealjs_width: 1400
+:revealjs_height: 1000
+:revealjs_width: 1200
 :revealjs_viewDistance: 5
 :revealjs_slideNumber: c/t
 
@@ -27,7 +27,7 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-== Extrait de backlogs produit
+== Extrait de backlogs - promo 2022-2023
 
 === Gestion des évènements 
 
@@ -50,3 +50,43 @@ En tant qu'administrateur, je souhaite pouvoir avoir une liste des informations 
 
 [.text-left]
 En tant qu'utilisateur, je souhaiterais voir les derniers articles sur la page d'accueil afin de consulter les articles les plus récents.
+
+=== Gestion des articles
+
+[.text-left]
+En tant que membres authentifié  +
+Je veux pouvoir ajouter des articles sur la page dédié a cela +
+De telle sorte à pouvoir partager les actualités et autres informations avec les visiteur du site
+
+=== Gestion des informations
+
+[.text-left]
+En tant qu'administrateur +
+Je veux que les informations les plus récentes proposer par les membres expert ou les administrateurs soit partagées sur la page d'accueil +
+De manière à ce que tout les utilisateur ait accès a ces information dés leur arrivée sur le site
+
+=== Gestion d'évènements et de formation
+
+[.text-left]
+En tant que membre expert +
+Je veux que mon évènement s'affiche sur la page d'accueil du site +
+Afin de donner de la visibilité à mon évènement
+
+=== Gestion des articles
+
+[.text-left]
+en tant qu'utilisateur, je voudrais pouvoir rechercher par mots-clés afin de trouver un article plus facilement
+
+=== Gestion des articles
+
+[.text-left]
+En tant que membre du site, +
+je veux pouvoir publier mes articles, +
+afin de pouvoir les promouvoir.
+
+=== Consultation
+
+[.text-left]
+En tant qu'utilisateur, +
+je peux consulter le site web sur différents navigateur (Chrome, Safari, Firefox, Edge) +
+afin de pouvoir consulter le site web +
