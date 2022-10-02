@@ -1,0 +1,52 @@
+= R3.03 Analyse - Retour US 2022-2023
+:author: Franck Silvestre
+:icons: font
+:toc: left
+:toclevels: 4
+:sectnums:
+:source-highlighter: highlightjs
+:revealjs_theme: beige
+:revealjs_hash: true
+:revealjs_height: 1200
+:revealjs_width: 1400
+:revealjs_viewDistance: 5
+:revealjs_slideNumber: c/t
+
+
+ifdef::backend-html5[]
+++++
+include::../licence.html[]
+++++
+endif::[]
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+== Extrait de backlogs produit
+
+=== Gestion des évènements 
+
+[.text-left]
+En tant que membre je peux ajouter des articles au site afin que tous les visiteurs puissent les consulter.
+
+=== Profil d'utilisateurs
+
+[.text-left]
+En tant que administrateur +
+Je dois pouvoir accepter ou rejeter les informations, évènements et formation proposées par les membres experts +
+Afin de veiller à l'intégrité des informations proposées
+
+=== Gestion des informations
+
+[.text-left]
+En tant qu'administrateur, je souhaite pouvoir avoir une liste des informations en attente de publication afin de valider leurs contenu ou non.
+
+=== Gestion des articles
+
+[.text-left]
+En tant qu'utilisateur, je souhaiterais voir les derniers articles sur la page d'accueil afin de consulter les articles les plus récents.
