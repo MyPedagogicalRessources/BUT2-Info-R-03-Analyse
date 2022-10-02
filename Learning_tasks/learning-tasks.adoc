@@ -28,5 +28,6 @@ ifdef::env-github[]
 endif::[]
 
 include::01_Activité_Rediger_des_US.adoc[]
-// include::02_Activité_Détailler_des_US.adoc[]
+
+include::02_Activité_Détailler_des_US.adoc[]
 
