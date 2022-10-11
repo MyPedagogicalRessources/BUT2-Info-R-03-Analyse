@@ -29,14 +29,14 @@ endif::[]
 
 == Extrait de backlogs - promo 2022-2023
 
-=== Tests/US à étudier
+=== Tests/US à étudier 1
 
 https://github.com/Rodez-IUT/site-alosa-tpa3-esou-eres/issues/4
 
 * Publication
 * Impossible de publier article vide
 
-=== Tests/US à étudier
+=== Tests/US à étudier 2
 
 https://github.com/Rodez-IUT/site-alosa-tpa3-esou-eres/issues/2
 
@@ -44,9 +44,17 @@ https://github.com/Rodez-IUT/site-alosa-tpa3-esou-eres/issues/2
 * Supprimer
 * Modifier
 
-=== Tests/US à étudier
+=== Tests/US à étudier 3
 
 https://github.com/Rodez-IUT/site-alosa-tpa3d-rque-jrum-amac/issues/4
 
 * Règles métier
 * Cas nominal
+
+== Tests/US à étudier 4
+
+https://github.com/Rodez-IUT/site-alosa-tpa2-agou-gjal/issues/4
+
+== Tests/US à étudier 5
+
+https://github.com/Rodez-IUT/site-alosa-tpa2-agou-gjal/issues/1
