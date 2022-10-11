@@ -50,7 +50,7 @@
 
 - 5ème séance de TP
   - 1h15
-  - Vers les diagrammes de classe
+  - Vers les diagrammes de classe (identifier les entités (classes persistantes, élaborer un diagramme de classe))
 
 - 6ème séance de TP
   - 1h15
