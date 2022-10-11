@@ -19,27 +19,30 @@
   - 1h15
   - Écriture des US (sans tests d'acceptation)
 
-<!-- fin réalisé -->
+
 
 - Troisième séance C
   - 2h
-  - Transmissif:  idéalement la partie DoD
-  - Activité elaastic avec les US rédigées au dernier TP
-  - Retour sur les US écrites
-
+  - Retour sur les US rédigées au dernier TP <!> Sans elaastic, ce sont toujours les mêmes qui participent
+  - Transmissif:  -> DoD sans l'exercice
 
 - Troisième séance de TP
   - 1h15
   - Écriture tests d'acceptations
 
+<!-- Fin réalisé -->
+
 - 4ème séance de cours
-  - 1h ??
+  - 1h 
+  - présentation fin activité SAÉ 
   - Retour elaastic sur les les tests d'acceptations
+  - exercice DoD si on a le temps
+
 
 - 4ème séance de TP
   - 1h15
   - Reprise des tests d'acceptations
-  - ??
+  - Rédaction de la DoD du projet
 
 - 5ème séance de Cours
   - 1h (+ Tiers temps)
