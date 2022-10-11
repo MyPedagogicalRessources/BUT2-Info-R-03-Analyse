@@ -50,7 +50,7 @@
 
 - 5ème séance de TP
   - 1h15
-  - ??
+  - Vers les diagrammes de classe
 
 - 6ème séance de TP
   - 1h15
