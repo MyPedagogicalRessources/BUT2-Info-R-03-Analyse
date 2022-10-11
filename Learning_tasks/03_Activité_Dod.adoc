@@ -1,0 +1,26 @@
+== Activité 3 - Définition de Fini (DdF)
+
+=== Introduction
+
+==== Objectifs
+
+Rédiger la première version d'une définition de fini pour un projet de développement d'application Web.
+
+==== Modalités
+
+Alternance de travail en binôme et individuel sur projet Web de la SAÉ.
+
+=== Rédaction d'une DdF
+
+NOTE: Travail individuel
+
+. À partir de la lecture du cahier des charges de l'application Web de votre SAÉ et du PMP de la SAÉ, rédigez une première version de DdF en prenant soin de distinguer la _check list_ concernant les items de backlog de celle qui concerne l'incrément.
+
+TIP: Vous pouvez créer une colonne sur Zenhub "Définition de fini" avec dans cette colonne une carte pour chaque _check list_.
+
+NOTE: Travail en binôme
+
+[start=2]
+. Comparez vos checklists respectives et échangez sur les DdF obtenues.
+. Enrichissez vos _check lists_, si besoin, en tirant partie de vos échanges.
+

@@ -1,5 +1,8 @@
 = R3.03 Analyse - Activités
 :author: Franck Silvestre
+:revdate: 11 octobre 2022
+:revnumber: 1.3
+:title-page: true
 :icons: font
 :toc: left
 :toclevels: 4
@@ -30,4 +33,6 @@ endif::[]
 include::01_Activité_Rediger_des_US.adoc[]
 
 include::02_Activité_Détailler_des_US.adoc[]
+
+include::03_Activité_Dod.adoc[]
 
