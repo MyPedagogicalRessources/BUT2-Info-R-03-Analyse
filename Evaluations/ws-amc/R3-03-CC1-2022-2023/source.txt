@@ -1,0 +1,180 @@
+# AMC-TXT source
+PaperSize: A4
+Font: Linux Libertine O
+Lang: FR
+Title: 2022-2023 - R3-03 Analyse - CC1
+Code: 8
+CompleteMulti: 0
+ManualDuplex: 1
+Columns: 1
+SeparateAnswerSheet: 0
+AnswerSheetTitle: Feuille de réponses
+AnswerSheetPresentation: Les réponses doivent être fournies uniquement sur cette feuille. Aucune autre réponse
+ne sera prise en compte dans la notation. Les cases doivent être entèrement coloriées en noires pour être prises
+en compte dans la notation. Pour modifier une réponse, vous pouvez utiliser un correcteur blanc, sans
+re-dessiner la case à cocher.
+AnswerSheetColumns: 1
+AutoMarks: 1
+L-OpenReserved: Ne rien inscrire dans ces cases.
+L-Student: Veuillez coder votre numéro d'étudiant ci-contre, et écrire votre nom dans la case ci-dessous.
+
+Presentation: Durée : 51 mn (1h08 mn pour les tiers temps).
+
+Aucun document ni dispositif électronique n'est autorisé.
+
+Le symbole "trèfle" sur une question indique qu'il peut être attendu plus d'une réponse correcte.
+
+Les réponses doivent être fournies uniquement sur les feuilles d'énoncé. Aucune autre réponse
+ne sera prise en compte dans la notation. Les cases doivent être entièrement coloriées en noires pour être prises
+en compte dans la notation. Pour modifier une réponse, vous pouvez utiliser un correcteur blanc, sans
+re-dessiner la case à cocher.
+
+#########################################################################################
+
+*( [== Exigences généralités ==]
+
+** [* Parties prenantes *] - Cochez les assertions vraies
+        - Les parties prenantes sont exclusivement les personnes qui ont des exigences à formuler sur le produit ou service à réaliser.
+        + Les utilisateurs font partie des parties prenantes.
+        + AMOA et AMO désignent la même partie prenante.
+        - la MOE est l'entité qui a besoin de réaliser un projet mais qui ne dispose pas des compétences pour le mener à bien.
+
+*<lines=3> [* Exigence *] - Quelle est la définition d'une exigence produit donnée par l'IEEE.
+        -[N]{0} O
+        -[P]{1} P
+        +[E]{2} E 
+
+* [* Types d'exigences *] - Dans le contexte d'un projet de réalisation d'un logiciel de révision pour les étudiants. Parmi les exigences ci-dessous, chassez l'intrus...
+        - En tant qu'etudiant, je veux importer les questions de révision depuis la base des questions dans Moodle, de telle sorte que je n'ai pas à recréer les questions pour mes révisions.
+        + L'application doit être développée en suivant une méthode de type cycle en V.
+        - L'application doit être utilisable sur téléphone mobile.
+        - En tant qu'étudiant, je veux pouvoir effectuer un test de révision même quand je ne dispose pas de connexion Internet.
+
+* [* Types d'exigences *] - Chassez l'intrus...
+        - Exigence technique
+        - Exigence sécurité
+        - Contrainte réglementaire
+        + Exigence fonctionnelle
+
+#########################################################################################
+
+*( [== Exigences en contexte agile ==]
+
+** [* Types d'exigences *] - Cochez les assertions vraies
+        + Les User Stories permettent d'exprimer des exigences fonctionnelles.
+        - La définition de fini correspond uniquement à des exigences qualité.
+        - La définition de fini ne concerne que les items de backlogs.
+        + La définition de fini permet d'exprimer des exigences "omniprésentes". 
+
+** [* User Story *] - Une User Story doit tenir sur un post-it car
+        + Elle doit susciter la conversation avec le client et les parties prenantes.
+        - Elle doit être "Suffisament petite" comme indiquer dans les critères INVEST.
+        - Elle doit laisser de la liberté dans l'exécution à l'équipe de développement.
+        - Cela est suffisant pour décrire parfaitement un item de backlog.
+
+** [* Product owner (PO) *]Le PO est responsable de l'écriture des stories. À ce titre, il doit :
+        + Alimenter le backlog Produit
+        - Alimenter le backlog de Sprint
+        + Ecrire les tests d’acceptation
+        + Prioriser les stories
+        - Estimer le temps à passer sur les items de backlog
+
+** [* Définition de fini *] Dans Scrum "standard", un item de la définition de fini peut s'appliquer
+        - à un sprint
+        - à une revue de sprint
+        + à un item du backlog
+        + à l'artefact délivré en fin de Sprint
+
+** [* Définition de fini *] Cochez les items vous semblant relevés d'une bonne définition de fini
+        - les tests passent
+        + la couverture du code par les tests est strictement supérieure à la couverture obtenue au sprint précédent
+        - le code est bien écrit
+        + le code a été approuvé par au moins un autre développeur de l'équipe
+        + les tests d'acceptations sont joués par le Product Owner et ils sont marqués comme passés par le Product Owner 
+
+** [* Revue de sprint *] - Cochez les assertions vraies.
+        + La revue de Sprint vise l'amélioration du produit.
+        + La revue de Sprint permet de collecter le feedback des parties prenantes.
+        + Il est souhaitable que des utilisateurs du produit participent à la revue. 
+        - La revue de Sprint vise l'amélioration du processus.
+        - Les développeurs ne participent pas à la revue de Sprint.
+        - La MOA ne participe pas à la revue de Sprint.
+
+** [* Rétrospective de Sprint *] - Cochez les assertions vraies.
+        - La Rétrospective de Sprint vise l'amélioration du produit.
+        - La Rétrospective de Sprint permet de collecter le feedback des parties prenantes.
+        - Il est souhaitable que des utilisateurs du produit participent à la Rétrospective. 
+        + La Rétrospective de Sprint vise l'amélioration du processus.
+        - Les développeurs ne participent pas à la Rétrospective de Sprint.
+        + Le Product Owner participe à la rétrospective.
+
+*)
+
+#########################################################################################
+
+*([shuffle=false] [== User stories ==]
+
+** [* User Story *] - Considérez la user story suivante et cochez les assertions vraies.
+[verbatim]
+En tant qu'administrateur
+Je veux gérer les comptes utilisateurs
+Afin d'ajouter/modifier/supprimer des comptes
+[/verbatim]
+        + La user story ne respecte pas le critère "S" des critères INVEST.
+        + La clause "Afin de..." ne joue pas son rôle de description de valeur. 
+        - La user story ne respecte pas le format textuel attendu.
+        - La user story ne respecte pas le critère du premier "C" de la règle des 3C.
+
+
+*<lines=3> [* User story 1 *] Imaginez et écrivez une user storie pour l'application Elaastic décrivant une fonctionnalité pour les étudiants.
+        -[N]{0} O
+        -[I]{1} I
+        -[P]{2} P
+        -[B]{3} B
+        +[E]{4} E
+
+*<lines=3> [* User story 2 *] Imaginez et écrivez une deuxième user storie pour l'application Elaastic décrivant une fonctionnalité pour les étudiants.
+        -[N]{0} O
+        -[I]{1} I
+        -[P]{2} P
+        -[B]{3} B
+        +[E]{4} E
+
+*)
+
+#########################################################################################
+
+*([shuffle=false] [== Tests d'acceptations ==]
+
+* [* Test d'acceptation *] - Considérez le test suivant.
+[verbatim]
+Étant donné un étudiant connecté sur la deuxième phase d'une séquence Elaastic
+Quand il tente de donner son degré d'accord sur une explication
+Alors il ne peut pas car il n'a pas soumis sa réponse lors de la première phase.  
+[/verbatim]
+Le contenu de la clause "Alors..." est incorrect car
+        - Elle ne respecte pas le format textuel attendu. 
+        - Une partie de son contenu devrait remonter dans la clause "Quand".
+        + Une partie de son contenu devrait remonter dans la clause "Étant donné".
+        
+
+*<lines=13> [* Tests d'acceptation *] - Considérez la User Storie suivante appartenant au backlog produit d’Elaastic.
+[verbatim]
+En tant qu’enseignant,
+Je veux poster un commentaire sur la réponse textuelle d'un étudiant,
+Pour fournir un feedback personnalisé à cet étudiant.
+[/verbatim]
+Imaginez et écrivez les tests d’acceptation de cette User Story.
+        -[N]{0} O
+        -[I]{1} I
+        -[P]{2} P
+        -[B]{3} B
+        +[E]{4} E
+
+
+*)
+#########################################################################################
+
+
+
+
