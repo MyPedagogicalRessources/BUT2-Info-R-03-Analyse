@@ -1,0 +1,39 @@
+== Activité 4 - Diagramme de classes UML
+
+=== Introduction
+
+==== Objectifs
+
+Passer des exigences à la modélisation.
+
+==== Modalités
+
+Alternance de travail en binôme et individuel.
+
+=== Dictionnaire de données
+
+NOTE: Travail individuel
+
+. À partir des user stories spécifiant le site ALOSA, constituez le dictionnaire de données.
+
+
+NOTE: Travail en binôme
+
+[start=2]
+. Comparez et échangez sur vos dictionnaires de données respectifs.
+. Créez un fichier "DictionnaireDonnees.md" à la racine du projet sur Github et complétez ce document avec un dictionnaire de données unique résultant de vos échanges.
+
+=== Diagramme de classes UML
+
+NOTE: Travail individuel
+
+. À partir du dictionnaire de données, constituez un diagramme de classes (sans les opérations).
+
+
+NOTE: Travail en binôme
+
+[start=2]
+. Comparez et échangez sur votre diagramme de classes.
+. Déposez à la racine du projet sur Github un document au format PDF intitulé "DiagrammeClasses.pdf" contenant le diagramme de classes résultant de vos échanges.
+
+
