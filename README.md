@@ -30,7 +30,7 @@
   - 1h15
   - Écriture tests d'acceptations
 
-<!-- Fin réalisé -->
+
 
 - 4ème séance de cours
   - 1h 
@@ -42,20 +42,25 @@
 - 4ème séance de TP
   - 1h15
   - Reprise des tests d'acceptations
-  - Rédaction de la DoD du projet
+  - Rédaction de la DoD du projet en cours
+
+ 
 
 - 5ème séance de Cours
   - 1h (+ Tiers temps)
   - Contrôle orienté connaissance : sans documentation
 
+   <!-- Fin réalisé -->
+
 - 5ème séance de TP
   - 1h15
+  - Fin DoD + Activité Elaastic
   - Vers les diagrammes de classe (identifier les entités (classes persistantes, élaborer un diagramme de classe))
 
 - 6ème séance de TP
   - 1h15
-  - contrôle machine : avec doc autorisé
+  - Vers les diagrammes de classe (identifier les entités (classes persistantes, élaborer un diagramme de classe))
 
-
+- 1 heure de Contrôle sur table
 
 Total : 8h C + 7,5 TP = 12 + 7,5 = 19,5
