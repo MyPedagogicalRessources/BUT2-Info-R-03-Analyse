@@ -1,0 +1,31 @@
+= R3.03 Analyse - CC2 - 2022-2023 - Questions ouvertes
+:author: Franck Silvestre
+:revdate: 20 octobre 2022
+:revnumber: 1.0
+//:title-page: false
+:icons: font
+//:toc: left
+:toclevels: 4
+:sectnums:
+
+* Durée : 18 mn (24 mn pour les tiers-temps)
+* Aucun document autorisé
+* Partie sur 13 points
+
+== Users stories (7 points)
+
+. Imaginez et décrivez 2 user stories pour l'application Moodle décrivant chacune une fonctionnalité pour les étudiants. (3 points)
+
+[start=2]
+. Considérez la user story suivante appartenant au backlog produit Moodle :
+
+    En tant qu'enseignant,
+    Je veux ajouter une activité Elaastic dans un espace de cours
+    Afin que les étudiants puissent accéder à l'activité Elaastic sans avoir à s'authentifier sur l'application Elaastic
+
+Imaginez et rédigez les tests d'acceptation de cette story. (4 points)
+
+== Définition de fini (6 points)
+
+Décrivez une définition de fini pouvant être utilisée dans le cadre du projet d'application Web de votre SAÉ du semestre en cours.
+Il devra être indiqué pour chaque critère de la définition de fini sa portée. La définition de fini proposée devra contenir au moins 6 critères distincts.
