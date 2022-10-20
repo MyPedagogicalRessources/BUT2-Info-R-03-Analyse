@@ -8,7 +8,7 @@
 :toclevels: 4
 :sectnums:
 
-* Durée : 18 mn (24 mn pour les tiers-temps)
+* Durée : 21 mn (28 mn pour les tiers-temps)
 * Aucun document autorisé
 * Partie sur 13 points
 

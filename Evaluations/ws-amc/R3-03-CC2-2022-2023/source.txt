@@ -18,7 +18,7 @@ AutoMarks: 1
 L-OpenReserved: Ne rien inscrire dans ces cases.
 L-Student: Veuillez coder votre numéro d'étudiant ci-contre, et écrire votre nom dans la case ci-dessous.
 
-Presentation: Durée : 12 mn (16 mn pour les tiers temps).
+Presentation: Durée : 9 mn (12 mn pour les tiers temps).
 
 Aucun document ni dispositif électronique n'est autorisé.
 
