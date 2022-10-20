@@ -10,7 +10,7 @@ Columns: 1
 SeparateAnswerSheet: 0
 AnswerSheetTitle: Feuille de réponses
 AnswerSheetPresentation: Les réponses doivent être fournies uniquement sur cette feuille. Aucune autre réponse
-ne sera prise en compte dans la notation. Les cases doivent être entèrement coloriées en noires pour être prises
+ne sera prise en compte dans la notation. Les cases doivent être entièrement coloriées en noires pour être prises
 en compte dans la notation. Pour modifier une réponse, vous pouvez utiliser un correcteur blanc, sans
 re-dessiner la case à cocher.
 AnswerSheetColumns: 1
