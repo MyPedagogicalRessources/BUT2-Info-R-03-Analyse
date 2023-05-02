@@ -4,3 +4,5 @@
 *.slides.html
 *.pdf
 .DS_Store
+*.csv
+*.xlsx
