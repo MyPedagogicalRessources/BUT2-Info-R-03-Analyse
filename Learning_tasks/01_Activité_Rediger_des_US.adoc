@@ -51,7 +51,7 @@ NOTE: Coordonnez-vous au sein du binôme pour vous inscrire dans la même *team*
 
 [start=2]
 . Installez l'extension Zenhub pour votre navigateur préféré. Une fois l'extension installée, cliquez sur l'onglet Zenhub disposnible dans le projet Github "Site_Alosa".
-. Explorez librement les possibilités de gestion d'un *board Zenhub*.
+. Suivez les instructions de votre enseignant pour la prise en main des opérations de base de la gestion d'un *board Zenhub*.
 . Renommez, si nécessaire la première colonne en "Product backlog".
 
 
