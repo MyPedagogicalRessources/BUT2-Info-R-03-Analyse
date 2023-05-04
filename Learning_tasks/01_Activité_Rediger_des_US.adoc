@@ -40,7 +40,7 @@ Parmi les US, dans partie "Courses and Events", certaines US sont surlignées en
 
 https://cours22-23.ut-capitole.fr/course/view.php?id=14299[Activité elaastic : Exemples de *User stories*...]
 
-==== Création du board Zenhub
+==== Utilisation du board Zenhub
 
 Pour cette activité, vous aurez besoin d'utiliser votre compte Github.
 
