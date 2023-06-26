@@ -33,7 +33,7 @@ On appelle *oeuvre* l'ensemble des activités réalisées au cours du projet.
 ** ou quand il devient évident que ces objectifs ne seront ou ne pourront être atteint
 ** ou quand le projet n'est plus nécessaire.
 - Dans les deux derniers cas le projet est terminé par abandon.
-- L'équipe projet, en tant qu'unité de travail conçue pour réaliser le projet, est rarement maintenu à l'issue du projet.
+- L'équipe projet, en tant qu'unité de travail conçue pour réaliser le projet, est rarement maintenue à l'issue du projet.
 
 [%step]
 [NOTE]
