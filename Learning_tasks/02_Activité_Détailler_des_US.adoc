@@ -16,25 +16,25 @@ https://cours22-23.ut-capitole.fr/course/view.php?id=14299[Activité elaastic : 
 
 === Rédaction des tests d'acceptations de vos US
 
-Les tests d'acceptations seront ajoutés directement dans la description des US sur le board Zenhub de votre projet.
+Les tests d'acceptations seront ajoutés directement dans la description des US sur le board de votre projet.
 
 ==== Rédaction des tests d'acceptation d'une US 
 
 1. Think : Choisissez une des US que vous avez rédigée. Rédigez les tests d'acceptations pour cette User Story en distinguant bien le cas nominal des cas limites et des cas d'erreur.
 
 2. Pair : 
-    - Étudiez et commentez en utilisant les fonctionnalités du Board Zenhub les tests d'acceptation rédigés par votre binôme.
+    - Étudiez et commentez, en utilisant les fonctionnalités du Board, les tests d'acceptation rédigés par votre binôme.
     - Échangez de vive voix avec votre binôme sur les commentaires postés sur vos US respectives.
 
 3. Share : Questions/Réponses entre enseignant et étudiant•e•s.
 
 4. Reprenez, si nécessaire, la rédaction de vos tests d'acceptation afin qu'ils prennent en compte l'ensemble des commentaires et échanges. 
 
-==== Rédaction des tests d'acceptations de l'ensemble des US
+==== Rédaction des tests d'acceptation de l'ensemble des US
 
 Pour chaque US que vous avez rédigée :
 
 1. Rédigez les tests d'acceptation.
-2. Étudiez et commentez en utilisant les fonctionnalités du Board Zenhub les tests d'acceptations rédigés par votre binôme.
+2. Étudiez et commentez, en utilisant les fonctionnalités du Board, les tests d'acceptations rédigés par votre binôme.
 3. Échangez de vive voix avec votre binôme pour converger vers un consensus sur les modifications à apporter à l'ensemble des tests.
 4. Prenez en compte les résultats de commentaires et des échanges pour finaliser la rédaction des tests d'acceptation.

@@ -1,5 +1,7 @@
 = R3.03 Analyse - L'analyse la documentation des exigences
-Franck Silvestre <franck.silvestre@iut-rodez.fr> et Mathieu Palosse <mathieu.palosse@iut-rodez.fr>
+Franck Silvestre et Mathieu Palosse
+:revdate: Septembre 2023
+:revnumber: 1.1
 :doctype: book
 :chapter-signifier: Chapitre
 :toc-title: Table des matières

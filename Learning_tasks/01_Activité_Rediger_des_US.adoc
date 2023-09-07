@@ -40,7 +40,7 @@ Parmi les US, dans partie "Courses and Events", certaines US sont surlignées en
 
 https://cours22-23.ut-capitole.fr/course/view.php?id=14299[Activité elaastic : Exemples de *User stories*...]
 
-==== Utilisation du board Zenhub
+==== Utilisation du board Github Projects
 
 Pour cette activité, vous aurez besoin d'utiliser votre compte Github.
 
@@ -50,15 +50,15 @@ https://cours22-23.ut-capitole.fr/course/view.php?id=14299[Lien d'inscription Gi
 NOTE: Coordonnez-vous au sein du binôme pour vous inscrire dans la même *team* pour partager le même projet.
 
 [start=2]
-. Installez l'extension Zenhub pour votre navigateur préféré. Une fois l'extension installée, cliquez sur l'onglet Zenhub disposnible dans le projet Github "Site_Alosa".
-. Suivez les instructions de votre enseignant pour la prise en main des opérations de base de la gestion d'un *board Zenhub*.
+. Cliquez sur l'onglet Github Projects disposnible dans le projet Github "Site_Alosa".
+. Suivez les instructions de votre enseignant pour la prise en main des opérations de base de la gestion d'un *board Github Projects*.
 . Renommez, si nécessaire la première colonne en "Product backlog".
 
 
 ==== Rédaction d'US pour le site ALOSA 
 
 1. Au sein de votre binôme, répartissez vous 1 partie du site ALOSA à spécifier sous forme d'US.
-2. Directement dans le board Zenhub du projet : 
+2. Directement dans le board Github Projects du projet : 
     - Créez une *epic* correspondant à la partie que vous devez spécifier.
     - Rédigez 6 US attachées à cette *epic* (1 issue par US dans la colonne "backlog"). 
 3. Relisez les US écrites par votre binôme en notant vos questions et vos remarques sur ces US que vous n'avez pas écrites.

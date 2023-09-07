@@ -61,7 +61,7 @@ Confirmation:: À l’issue des échanges des tests d’acception doivent compl�
 
 * Tableur 
 * Outil de _bug tracking_ (JIRA, Issues Github, etc.)
-* Outil de board agile (Trello, Zenhub, etc.)
+* Outil de board agile (Trello, Github Projects, Zenhub, etc.)
 
 === De l'exigence à la tâche
 
@@ -111,7 +111,7 @@ image::004-Trello-2.png[Trello, US et tâches, 600]
 
 === Epic (épopée)
 
-* Dans XP ou Zenhub : une grosse story, un regroupement de stories <~> feature
+* Dans XP ou Github Projects : une grosse story, un regroupement de stories <~> feature
 * Dans d'autres contextes (Scrum à grand échelle), un regroupement de features 
 
 === Le backlog de Sprint
