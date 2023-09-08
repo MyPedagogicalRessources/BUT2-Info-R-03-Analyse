@@ -32,14 +32,6 @@ NOTE: Vous pouvez réfléchir en binôme, mais les réponses fournies doivent ê
 
 === Rédaction des Users Stories
 
-==== Étude d'exemples
-
-Le document "example-user-stories.pdf" disponible dans les ressources contient l'ensembles des US qui ont été écrite pour la réalisation de la première version du site de l'Alliance Agile.
-
-Parmi les US, dans partie "Courses and Events", certaines US sont surlignées en vert, d'autres en orange.
-
-https://cours22-23.ut-capitole.fr/course/view.php?id=14299[Activité elaastic : Exemples de *User stories*...]
-
 ==== Utilisation du board Github Projects
 
 Pour cette activité, vous aurez besoin d'utiliser votre compte Github.

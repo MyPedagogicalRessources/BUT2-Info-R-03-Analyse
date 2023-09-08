@@ -74,6 +74,14 @@ IMPORTANT: La planification requiert la traduction des exigences en tâches à r
 .Trello, US et tâches
 image::004-Trello-2.png[Trello, US et tâches, 600]
 
+==== Étude d'exemples
+
+Le document "example-user-stories.pdf" disponible dans les ressources contient l'ensembles des US qui ont été écrite pour la réalisation de la première version du site de l'Alliance Agile.
+
+Parmi les US, dans partie "Courses and Events", certaines US sont surlignées en vert, d'autres en orange.
+
+https://cours22-23.ut-capitole.fr/course/view.php?id=14299[Activité elaastic : Exemples de *User stories*...]
+
 === Tests d'acceptation
 
 * Tests fonctionnels
