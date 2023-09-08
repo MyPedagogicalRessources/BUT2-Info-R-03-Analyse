@@ -26,7 +26,7 @@ Le cahier des charges fourni par le client est disponible dans les ressources de
 
 ====  Questions/Réponses
 
-https://cours22-23.ut-capitole.fr/course/view.php?id=14299[Activité elaastic : Du CDC au développement...]
+https://cours23-24.ut-capitole.fr/course/view.php?id=14299[Activité elaastic : Du CDC au développement...]
 
 NOTE: Vous pouvez réfléchir en binôme, mais les réponses fournies doivent être individuelles.
 
@@ -37,7 +37,7 @@ NOTE: Vous pouvez réfléchir en binôme, mais les réponses fournies doivent ê
 Pour cette activité, vous aurez besoin d'utiliser votre compte Github.
 
 1.  Inscrivez-vous au devoir Site_Alosa via Github Classroom et RDV sur le projet créé.
-https://cours22-23.ut-capitole.fr/course/view.php?id=14299[Lien d'inscription Github Classroom]
+https://cours23-24.ut-capitole.fr/course/view.php?id=14299[Lien d'inscription Github Classroom]
 
 NOTE: Coordonnez-vous au sein du binôme pour vous inscrire dans la même *team* pour partager le même projet.
 

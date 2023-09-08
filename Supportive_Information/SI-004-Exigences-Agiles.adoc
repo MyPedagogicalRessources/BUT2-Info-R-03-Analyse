@@ -80,7 +80,7 @@ Le document "example-user-stories.pdf" disponible dans les ressources contient l
 
 Parmi les US, dans partie "Courses and Events", certaines US sont surlignées en vert, d'autres en orange.
 
-https://cours22-23.ut-capitole.fr/course/view.php?id=14299[Activité elaastic : Exemples de *User stories*...]
+https://cours23-24.ut-capitole.fr/course/view.php?id=14299[Activité elaastic : Exemples de *User stories*...]
 
 === Tests d'acceptation
 
