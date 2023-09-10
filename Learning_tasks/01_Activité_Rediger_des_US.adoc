@@ -45,7 +45,7 @@ NOTE: Coordonnez-vous au sein du binôme pour vous inscrire dans la même *team*
 . Suivez les instructions de votre enseignant pour ajouter des labels applicables aux issues que vous allez créer. Créez au moins les labels *Feature* et *US*.
 . Cliquez sur l'onglet Github Projects disponible dans le projet Github "Site_Alosa".
 . En suivant les instructions de votre enseignant :
-.. Créez un nouveau *project* et lié au repository Site_Alosa.
+.. Créez un nouveau *project* et le lier au repository Site_Alosa.
 .. Ajoutez la colonne "Product backlog" et placez là en première position.
 .. Créez une *feature* de test et une *US* associée à cette *feature*. 
 
