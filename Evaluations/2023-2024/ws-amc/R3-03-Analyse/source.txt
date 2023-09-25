@@ -56,6 +56,8 @@ re-dessiner la case à cocher.
         - Contrainte réglementaire
         + Exigence fonctionnelle
 
+*)
+
 #########################################################################################
 
 *( [== Exigences en contexte agile ==]
@@ -96,6 +98,28 @@ re-dessiner la case à cocher.
         - Les développeurs ne participent pas à la Rétrospective de Sprint.
         + Le Product Owner participe à la rétrospective.
 
+** [* Types d'exigences *] Considérez l'exigence suivante et cochez les assertions vraies.
+[verbatim]
+Le code source du logiciel développé doit faire l'objet d'une couverture du code 
+par les tests d'au moins 80%.
+[/verbatim]
+        + Cette exigence est une exigence "omniprésente".
+        + Cette exigence est typiquement un item de de définition de fini.
+        - Cette exigence est typiquement un item de backlog.
+        - Cette exigence est finissable.
+
+*<lines=3> [* Exigences projet *] Considérez les exigences suivantes.
+[verbatim]
+Le projet devra se dérouler suivant une approche agile. 
+Le site devra être livré avec toutes ses fonctionnalités 2 mois après la date de 
+démarrage officielle.
+[/verbatim]
+En quoi ces exigences sont-elles contradictoires ?
+        -[N]{0} O
+        -[I]{1} I
+        -[P]{2} P
+        +[B]{3} B
+
 *)
 
 #########################################################################################
@@ -113,20 +137,31 @@ Afin d'ajouter/modifier/supprimer des comptes
         - La user story ne respecte pas le format textuel attendu.
         - La user story ne respecte pas le critère du premier "C" de la règle des 3C.
 
+*<lines=3> [* User story *] Considérez la user story suivante.
+[verbatim]
+En tant qu'administrateur
+Je veux pouvoir accepter ou décliner les événements, articles et informations 
+publiés par les membres experts
+Pour pouvoir réguler le contenu du site et maintenir ainsi sa qualité.
+[/verbatim]
+Cette US correpond-elle selon vous à une "bonne" US. Justifiez votre réponse.
+        -[N]{0} O
+        -[I]{1} I
+        -[P]{2} P
+        +[B]{3} B
+
 
 *<lines=3> [* User story 1 *] Imaginez et écrivez une user storie pour l'application Elaastic décrivant une fonctionnalité pour les étudiants.
         -[N]{0} O
         -[I]{1} I
         -[P]{2} P
-        -[B]{3} B
-        +[E]{4} E
+        +[B]{3} B
 
 *<lines=3> [* User story 2 *] Imaginez et écrivez une deuxième user storie pour l'application Elaastic décrivant une fonctionnalité pour les étudiants.
         -[N]{0} O
         -[I]{1} I
         -[P]{2} P
-        -[B]{3} B
-        +[E]{4} E
+        +[B]{3} B
 
 *)
 
