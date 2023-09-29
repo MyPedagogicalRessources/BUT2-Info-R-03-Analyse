@@ -114,7 +114,7 @@ Le projet devra se dérouler suivant une approche agile.
 Le site devra être livré avec toutes ses fonctionnalités 2 mois après la date de 
 démarrage officielle.
 [/verbatim]
-En quoi ces exigences sont-elles contradictoires ?
+En quoi ces exigences peuvent-elles paraître contradictoires ?
         -[N]{0} O
         -[I]{1} I
         -[P]{2} P
@@ -151,13 +151,13 @@ Cette US correpond-elle selon vous à une "bonne" US. Justifiez votre réponse.
         +[B]{3} B
 
 
-*<lines=3> [* User story 1 *] Imaginez et écrivez une user storie pour l'application Elaastic décrivant une fonctionnalité pour les étudiants.
+*<lines=3> [* User story 1 *] Imaginez et écrivez une user story pour l'application Elaastic décrivant une fonctionnalité pour les étudiants.
         -[N]{0} O
         -[I]{1} I
         -[P]{2} P
         +[B]{3} B
 
-*<lines=3> [* User story 2 *] Imaginez et écrivez une deuxième user storie pour l'application Elaastic décrivant une fonctionnalité pour les étudiants.
+*<lines=3> [* User story 2 *] Imaginez et écrivez une deuxième user story pour l'application Elaastic décrivant une fonctionnalité pour les étudiants.
         -[N]{0} O
         -[I]{1} I
         -[P]{2} P
