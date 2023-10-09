@@ -6,5 +6,6 @@
 .DS_Store
 *.csv
 *.xlsx
+*.ods
 Ressources-diverses
 !JournalDeBord.xlsx
