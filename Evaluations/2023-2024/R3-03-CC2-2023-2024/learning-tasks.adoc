@@ -55,6 +55,6 @@ Enseignant 1:: "Non, dès qu'un étudiant a fourni une réponse dans la phase 1,
 Enseignant 2:: "OK, je comprends, mais on est d'accord, que l'étudiant ne voit le commentaire que quand les résultats sont publiés."
 Enseignant 1:: "Ah oui, bien sûr".
 Enseignant 2:: "Ce serait bien de pouvoir donner le degré d'accord, comme peuvent le faire les étudiants sur une réponse, et en plus de faire un commentaire".
-Enseignant 1:: "Ah oui, ce serait une annotation à 2 niveaux : le degré d'accord, comme ça ils peuvent comparer la note donnée par l'enseignant à celle données par les autres étudiants, et le commentaire textuel, pour avoir des explications détaillées sur ce qui ne va pas."
+Enseignant 1:: "Ah oui, ce serait une annotation à 2 niveaux : le degré d'accord, comme ça ils peuvent comparer la note donnée par l'enseignant à celle donnée par les autres étudiants, et le commentaire textuel, pour avoir des explications détaillées sur ce qui ne va pas."
 
 Vous pouvez imaginer d'autres éléments de cette conversation si cela vous aide à rédiger les tests d'acceptation.
