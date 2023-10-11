@@ -1,4 +1,4 @@
-=== R3.03 Analyse - CC2 - 2022-2023 - Questions ouvertes
+=== R3.03 Analyse - CC2 - 2023-2024 - Questions ouvertes
 :author: Franck Silvestre, Mathieu Palosse
 :revdate: 11 octobre 2023
 :revnumber: 1.0
