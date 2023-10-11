@@ -1,22 +1,20 @@
-= R3.03 Analyse - CC2 - 2022-2023 - Questions ouvertes
+=== R3.03 Analyse - CC2 - 2022-2023 - Questions ouvertes
 :author: Franck Silvestre, Mathieu Palosse
 :revdate: 11 octobre 2023
 :revnumber: 1.0
 //:title-page: false
 :icons: font
-//:toc: left
-:toclevels: 4
-:sectnums:
+//:sectnums:
 
 * Durée : 30 mn (40 mn pour les tiers-temps)
 * Aucun document autorisé
 * Partie sur 14 points
 
-== Users stories (4 points)
+==== 1. Users stories (4 points)
 
 Rédigez 2 user stories pour l'application de consultation des emplois du temps de l'IUT décrivant chacune une fonctionnalité pour les étudiants.
 
-== Tests d'acceptation (10 points)
+==== 2. Tests d'acceptation (10 points)
 
 
 . Considérez la user story suivante appartenant au backlog produit de l'application des emplois du temps :
