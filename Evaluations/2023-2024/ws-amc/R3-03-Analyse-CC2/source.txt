@@ -1,0 +1,90 @@
+# AMC-TXT source
+PaperSize: A4
+Font: Linux Libertine O
+Lang: FR
+Title: 2023-2024 - R3-03 Analyse - CC2
+Code: 8
+CompleteMulti: 0
+ManualDuplex: 1
+Columns: 1
+SeparateAnswerSheet: 0
+AnswerSheetTitle: Feuille de réponses
+AnswerSheetPresentation: Les réponses doivent être fournies uniquement sur cette feuille. Aucune autre réponse
+ne sera prise en compte dans la notation. Les cases doivent être entièrement coloriées en noires pour être prises
+en compte dans la notation. Pour modifier une réponse, vous pouvez utiliser un correcteur blanc, sans
+re-dessiner la case à cocher.
+AnswerSheetColumns: 1
+AutoMarks: 1
+L-OpenReserved: Ne rien inscrire dans ces cases.
+L-Student: Veuillez coder votre numéro d'étudiant ci-contre, et écrire votre nom dans la case ci-dessous.
+
+Presentation: Durée : 9 mn (12 mn pour les tiers temps).
+
+Aucun document ni dispositif électronique n'est autorisé.
+
+Partie sur 6 points.
+
+Le symbole "trèfle" sur une question indique qu'il peut être attendu plus d'une réponse correcte.
+
+Les réponses doivent être fournies uniquement sur les feuilles d'énoncé. Aucune autre réponse
+ne sera prise en compte dans la notation. Les cases doivent être entièrement coloriées en noires pour être prises
+en compte dans la notation. Pour modifier une réponse, vous pouvez utiliser un correcteur blanc, sans
+re-dessiner la case à cocher.
+
+#########################################################################################
+
+*( [== Exigences généralités ==]
+
+*<lines=3> [* Exigence *] - Quelle est la définition d'une exigence produit donnée par l'IEEE.
+        -[N]{0} O
+        -[P]{1} P
+        +[E]{2} E 
+
+* [* Types d'exigences *] - Dans le contexte d'un projet de réalisation d'un logiciel de révision pour les étudiants. Parmi les exigences ci-dessous, chassez l'intrus...
+        - Le code de l'application doit être couvert par les tests unitaires à hauteur de 80%.
+        + L'application doit être développée en s'appuyant sur un backlog produit.
+        - L'application doit être utilisable sur téléphone mobile iOS version 7 ou supérieure, Anroid version 24 ou supérieure.
+        - L'application doit être compatible avec les navigateurs Chrome,Firefox et Safari dans leurs versions plus récentes que 2018.
+
+
+#########################################################################################
+
+*( [== Exigences en contexte agile ==]
+
+** [* Types d'exigences *] - Cochez les assertions vraies
+        + Les User Stories permettent d'exprimer des exigences fonctionnelles.
+        - La définition de fini correspond à des exigences "finissables".
+        + La définition de fini concerne les items de backlogs ou l'incrément de fin de sprint.
+        + La définition de fini permet d'exprimer des exigences "omniprésentes". 
+
+** [* User Story *] - Une User Story doit tenir sur un post-it car
+        + Elle doit susciter la conversation avec le client et les parties prenantes.
+        - Elle doit être "Suffisament petite" comme indiquer dans les critères INVEST.
+        - Elle doit laisser de la liberté dans l'exécution à l'équipe de développement.
+        - Cela est suffisant pour décrire parfaitement un item de backlog.
+
+** [* Product owner (PO) *]Le PO est responsable de l'écriture des stories. À ce titre, il doit :
+        + Alimenter le backlog Produit
+        - Alimenter le backlog de Sprint
+        + Ecrire les tests d’acceptation
+        + Prioriser les stories
+        - Estimer le temps à passer sur les items de backlog
+
+** [* Définition de fini *] Dans Scrum "standard", un item de la définition de fini peut s'appliquer
+        - à un sprint
+        - à une revue de sprint
+        + à un item du backlog
+        + à l'artefact délivré en fin de Sprint
+
+** [* Définition de fini *] Cochez les items vous semblant relevés d'une bonne définition de fini
+        + la couverture du code par les tests est strictement supérieure à la couverture obtenue au sprint précédent
+        - le code est bien écrit
+        + le code a été approuvé par au moins un autre développeur de l'équipe
+        + les tests d'acceptations sont joués par le Product Owner et ils sont marqués comme passés par le Product Owner 
+
+*)
+
+
+
+
+
