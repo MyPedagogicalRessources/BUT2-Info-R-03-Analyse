@@ -31,7 +31,7 @@ Rédigez les tests d'acceptation de cette story. (5 points)
 
 Pour vous aider, voici quelques extraits de la conversation menée avec les enseignants qui ont demandé cette fonctionnalité.
 
-Enseignant 1:: "On doit pouvoir poser un créneau qu'en dehors des enseignements déjà programmés pour les étudiants concernés."
+Enseignant 1:: "On ne doit pouvoir poser un créneau qu'en dehors des enseignements déjà programmés pour les étudiants concernés."
 Enseignant 2:: "Oui, et en dehors de nos enseignements."
 Enseignant 2:: "Ce serait bien de définir une durée par défaut de la réunion : 15mn ?"
 Enseignant 1:: "Oui. 15mn pour des points courts, mais il faut qu'on puisse changer la durée à la création du RDV : une revue de sprint, c'est plutôt entre 30 et 45mn en BUT2."
