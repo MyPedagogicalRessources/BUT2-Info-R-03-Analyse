@@ -1,0 +1,60 @@
+= R3.03 Analyse - CC2 - 2022-2023 - Questions ouvertes
+:author: Franck Silvestre, Mathieu Palosse
+:revdate: 11 octobre 2023
+:revnumber: 1.0
+//:title-page: false
+:icons: font
+//:toc: left
+:toclevels: 4
+:sectnums:
+
+* Durée : 30 mn (40 mn pour les tiers-temps)
+* Aucun document autorisé
+* Partie sur 14 points
+
+== Users stories (4 points)
+
+Rédigez 2 user stories pour l'application de consultation des emplois du temps de l'IUT décrivant chacune une fonctionnalité pour les étudiants.
+
+== Tests d'acceptation (10 points)
+
+
+. Considérez la user story suivante appartenant au backlog produit de l'application des emplois du temps :
+
+    En tant qu'enseignant,
+    Je veux placer un créneau de RDV avec un groupe de projet SAÉ
+    Afin de faciliter l'organisation des réunions avec les groupes de SAÉ que j'accompagne.
+
+Rédigez les tests d'acceptation de cette story. (5 points)
+
+Pour vous aider, voici quelques extraits de la conversation menée avec les enseignants qui ont demandé cette fonctionnalité.
+
+Enseignant 1:: "On doit pouvoir poser un créneau qu'en dehors des enseignements déjà programmés pour les étudiants concernés."
+Enseignant 2:: "Oui, et en dehors de nos enseignements."
+Enseignant 2:: "Ce serait bien de définir une durée par défaut de la réunion : 15mn ?"
+Enseignant 1:: "Oui. 15mn pour des points courts, mais il faut qu'on puisse changer la durée à la création du RDV : une revue de sprint, c'est plutôt entre 30 et 45mn en BUT2."
+Enseignant 2:: "Je reviens sur les contraintes, l'idéal, ce serait que quand on a précisé le jour où on voulait poser le créneau et la durée de la réunion, l'application nous propose des heures possibles."
+Enseignant 1:: "Ah, oui, c'est top ça. Comme ça on a pas à naviguer dans les emplois du temps des étudiants pour savoir ou poser un RDV."
+
+Vous pouvez imaginer d'autres éléments de cette conversation si cela vous aide à rédiger les tests d'acceptation.
+
+[start=2]
+. Considérez la user story suivante appartenant au backlog produit de l'application Elaastic :
+
+    En tant qu'enseignant orchestrant une séquence Elaastic,
+    Je veux annoter une réponse fournie par un étudiant,
+    Afin de fournir un feedback textuel pouvant aider l'auteur de la réponse dans son apprentissage
+
+Rédigez les tests d'acceptation de cette story. (5 points)
+
+Pour vous aider, voici quelques extraits de la conversation menée avec les enseignants qui ont demandé cette fonctionnalité.
+
+Enseignant 1:: "L'idéal, c'est de pouvoir commenter la réponse quelque soit la phase dans laquelle on se trouve".
+Enseignant 2:: "Oui, mais il faut que l'étudiant ait pu répondre, on doit être au moins à la phase 2".
+Enseignant 1:: "Non, dès qu'un étudiant a fourni une réponse dans la phase 1, même si la phase n'est pas terminée, je dois pouvoir noter une remarque dès que la réponse d'un étudiant a été soumise."
+Enseignant 2:: "OK, je comprends, mais on est d'accord, que l'étudiant ne voit le commentaire que quand les résultats sont publiés."
+Enseignant 1:: "Ah oui, bien sûr".
+Enseignant 2:: "Ce serait bien de pouvoir donner le degré d'accord, comme peuvent le faire les étudiants sur une réponse, et en plus de faire un commentaire".
+Enseignant 1:: "Ah oui, ce serait une annotation à 2 niveaux : le degré d'accord, comme ça ils peuvent comparer la note donnée par l'enseignant à celle données par les autres étudiants, et le commentaire textuel, pour avoir des explications détaillées sur ce qui ne va pas."
+
+Vous pouvez imaginer d'autres éléments de cette conversation si cela vous aide à rédiger les tests d'acceptation.
