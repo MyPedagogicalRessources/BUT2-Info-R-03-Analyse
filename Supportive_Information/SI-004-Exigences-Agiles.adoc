@@ -50,24 +50,30 @@ Confirmation:: À l’issue des échanges des tests d’acception doivent compl�
 
 === User story - critères INVEST
 
-* Indépendante (le plus possible)
+* Indépendante
 * Négotiable
 * Apporter de la Valeur
 * Estimable
 * Small enough
 * Testable
 
-Indépendante : les exigences doivent pouvoir être implémentées dans n'importe quel ordre, sans avoir à attendre qu'une autre soit implémentée pour pouvoir fonctionner.
+ifdef::backend-revealjs[=== !]
 
-Négotiable : Et négociée. Une US doit traduire l'esprit de ce qui est demandé, pas les détails. Ces détails seront co-construits par l'équipe de développement et le client au cours des sprints et itérations, en complétant l'US par des commentaires.
+Indépendante:: les exigences doivent pouvoir être implémentées dans n'importe quel ordre, sans avoir à attendre qu'une autre soit implémentée pour pouvoir fonctionner.
 
-Apporter de la Valeur : Une bonne US doit expliciter la valeur ajoutée que l'exigence apporte au client lorsqu'elle sera implémentée, c'est à dire ce que cette exigence rendra comme service au client qu'il n'a pas déjà.
+Négotiable:: Et négociée. Une US doit traduire l'esprit de ce qui est demandé, pas les détails. Ces détails seront co-construits par l'équipe de développement et les parties prenantes durant des **C**onversations au cours des sprints et itérations, en complétant l'US par les éléments de détails qui permettront de **C**onfirmer les attendus relatifs à l'US.
 
-Estimable : en terme de priorité et de temps nécessaire pour l'implémenter. Un estimation exacte n'est pas nécessaire, mais suffisemment pour pouvoir plannifier le travail.
+ifdef::backend-revealjs[=== !]
 
-Small Enough : en terme d'effort de travail nécessaire. Il faut que l'exigence puisse être développée au cours d'un sprint.
+Apporter de la Valeur:: Une bonne US doit expliciter la valeur ajoutée que l'exigence apporte aux parties prenantes lorsqu'elle sera implémentée, c'est à dire ce que cette exigence rendra comme service aux parties prenantes qu'elles n'ont pas déjà.
 
-Testable : l'US doit être suffisamment claire pour qu'on puisse anticiper quel test écrire à l'avance pour la tester.
+Estimable:: en terme d'effort nécessaire pour l'implémenter. Une estimation exacte n'est pas nécessaire, mais suffisamment pour pouvoir plannifier le travail et aider le PO à ordonner les US.
+
+ifdef::backend-revealjs[=== !]
+
+Small Enough:: en terme d'effort de travail nécessaire. Il faut que l'exigence puisse être développée au cours d'un sprint.
+
+Testable:: l'US doit être suffisamment claire pour qu'on puisse anticiper quel test écrire à l'avance pour la tester.
 
 Pour aller plus loin : https://www.agilealliance.org/glossary/invest/
 
@@ -164,11 +170,13 @@ ____
 
 === La définition de fini
 
-* Décrit à quelle condition un travail est considéré comme terminé
-* Partagée par toute l'équipe Scrum 
+* Décrit à quelle condition un travail est considéré comme terminé
+* Dispositif privilégié pour l'expression des exigences omniprésentes 
+* Partagée par toute l'équipe Scrum
 * Portée : item de backlog ou incrément
 * Évaluation systématique du caractère terminé d'un travail
 * La définition de "fini" peut/doit évoluer dans le temps
+
 
 === Activité sur la définition de fini 
 
