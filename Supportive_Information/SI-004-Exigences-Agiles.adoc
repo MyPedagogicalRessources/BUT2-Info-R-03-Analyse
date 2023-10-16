@@ -57,6 +57,20 @@ Confirmation:: À l’issue des échanges des tests d’acception doivent compl�
 * Small enough
 * Testable
 
+Indépendante : les exigences doivent pouvoir être implémentées dans n'importe quel ordre, sans avoir à attendre qu'une autre soit implémentée pour pouvoir fonctionner.
+
+Négotiable : Et négociée. Une US doit traduire l'esprit de ce qui est demandé, pas les détails. Ces détails seront co-construits par l'équipe de développement et le client au cours des sprints et itérations, en complétant l'US par des commentaires.
+
+Apporter de la Valeur : Une bonne US doit expliciter la valeur ajoutée que l'exigence apporte au client lorsqu'elle sera implémentée, c'est à dire ce que cette exigence rendra comme service au client qu'il n'a pas déjà.
+
+Estimable : en terme de priorité et de temps nécessaire pour l'implémenter. Un estimation exacte n'est pas nécessaire, mais suffisemment pour pouvoir plannifier le travail.
+
+Small Enough : en terme d'effort de travail nécessaire. Il faut que l'exigence puisse être développée au cours d'un sprint.
+
+Testable : l'US doit être suffisamment claire pour qu'on puisse anticiper quel test écrire à l'avance pour la tester.
+
+Pour aller plus loin : https://www.agilealliance.org/glossary/invest/
+
 === Outils pour la gestion du backlog 
 
 * Tableur 
