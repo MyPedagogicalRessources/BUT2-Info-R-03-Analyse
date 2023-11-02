@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 gem 'asciidoctor'
 gem 'asciidoctor-diagram'
+gem 'asciidoctor-diagram-plantuml', '1.2022.5'
 gem 'asciidoctor-pdf'
 gem 'asciidoctor-revealjs'
